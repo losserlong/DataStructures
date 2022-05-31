@@ -1,0 +1,1448 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="499a8227-8618-4396-90ba-721f15318ce8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../JVMDemo/chapter01/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JVMDemo/chapter01/src/main/java/com/atguigu/java/HelloLoader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JVMDemo/chapter01/src/main/java/com/atguigu/java/StackStruTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JVMDemo/chapter01/tips.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JVMDemo/chapter02/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JVMDemo/chapter02/src/main/java/com/atgiugu/pzx/ClassInitTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JVMDemo/chapter02/src/main/java/com/atgiugu/pzx/ClinitTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JVMDemo/chapter02/src/main/java/com/atgiugu/pzx/ClinitTest1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JVMDemo/chapter02/src/main/java/com/atgiugu/pzx/DeadThreadTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JVMDemo/chapter02/src/main/java/com/atgiugu/pzx/HelloApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JVMDemo/chapter02/src/main/java/com/atgiugu/pzx/HelloLoader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JVMDemo/chapter02/src/main/java/com/atgiugu/pzx1/ClassLoaderTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JVMDemo/chapter02/src/main/java/com/atgiugu/pzx1/ClassLoaderTest1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JVMDemo/chapter02/src/main/java/com/atgiugu/pzx1/ClassLoaderTest2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JVMDemo/chapter02/src/main/java/com/atgiugu/pzx1/CustomClassLoader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JVMDemo/chapter02/src/main/java/com/atgiugu/pzx1/StringTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JVMDemo/chapter02/src/main/java/java/lang/ShkStart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JVMDemo/chapter02/src/main/java/java/lang/String.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JVMDemo/chapter02/target/classes/com/atgiugu/pzx1/ClassLoaderTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JVMDemo/chapter02/target/classes/com/atgiugu/pzx1/ClassLoaderTest1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JVMDemo/chapter03/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JVMDemo/chapter03/src/main/java/com/atguigu/java/PCRegisterTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JVMDemo/chapter04/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JVMDemo/chapter04/src/main/java/com/atguigu/java/StackErrorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JVMDemo/chapter04/src/main/java/com/atguigu/java/StackTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JVMDemo/chapter04/src/main/java/com/atguigu/java1/DynamicLinkingTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JVMDemo/chapter04/src/main/java/com/atguigu/java1/LocalVariablesTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JVMDemo/chapter04/src/main/java/com/atguigu/java1/OperandStackTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JVMDemo/chapter04/src/main/java/com/atguigu/java1/StackFrameTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JVMDemo/chapter04/src/main/java/com/atguigu/java2/AnimalTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JVMDemo/chapter04/src/main/java/com/atguigu/java2/Lambda.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JVMDemo/chapter04/src/main/java/com/atguigu/java2/Son.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JVMDemo/chapter04/src/main/java/com/atguigu/java3/ReturnAddressTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JVMDemo/chapter04/src/main/java/com/atguigu/java3/StringBuilderTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JVMDemo/chapter04/src/main/java/com/atguigu/java3/VirtualMethodTable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JVMDemo/chapter04/target/classes/com/atguigu/java/StackTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JVMDemo/chapter05/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JVMDemo/chapter05/src/main/java/com/atguigu/pzx/IHaveNatives.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JVMDemo/chapter06/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JVMDemo/chapter06/src/main/java/com/atguigu/java/HeapDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JVMDemo/chapter06/src/main/java/com/atguigu/java/HeapDemo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JVMDemo/chapter06/src/main/java/com/atguigu/java/HeapSpaceInitial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JVMDemo/chapter06/src/main/java/com/atguigu/java/OOMTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JVMDemo/chapter06/src/main/java/com/atguigu/java/SimpleHeap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JVMDemo/chapter06/src/main/java/com/atguigu/java1/EdenSurvivorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JVMDemo/chapter06/src/main/java/com/atguigu/java1/GCTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JVMDemo/chapter06/src/main/java/com/atguigu/java1/HeapArgsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JVMDemo/chapter06/src/main/java/com/atguigu/java1/HeapInstanceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JVMDemo/chapter06/src/main/java/com/atguigu/java1/TLABArgsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JVMDemo/chapter06/src/main/java/com/atguigu/java1/YoungOldAreaTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JVMDemo/chapter06/src/main/java/com/atguigu/java2/EscapeAnalysis.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JVMDemo/chapter06/src/main/java/com/atguigu/java2/ScalarReplace.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JVMDemo/chapter06/src/main/java/com/atguigu/java2/StackAllocation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JVMDemo/chapter06/src/main/java/com/atguigu/java2/SynchronizedTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JVMDemo/chapter07/src/com/atguigu/java/MethodAreaDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JVMDemo/chapter07/src/com/atguigu/java/MethodAreaTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JVMDemo/chapter07/src/com/atguigu/java/MethodInnerStrucTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JVMDemo/chapter07/src/com/atguigu/java/OOMTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JVMDemo/chapter08/src/com/atguigu/java/MethodAreaDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JVMDemo/chapter08/src/com/atguigu/java/StaticFieldTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JVMDemo/chapter08/src/com/atguigu/java/StaticObjTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JVMDemo/chapter09/src/com/atguigu/java/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JVMDemo/chapter09/src/com/atguigu/java/CustomerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JVMDemo/chapter09/src/com/atguigu/java/ObjectTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JVMDemo/chapter10/src/com/atguigu/java/BufferTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JVMDemo/chapter10/src/com/atguigu/java/BufferTest1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JVMDemo/chapter10/src/com/atguigu/java/BufferTest2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JVMDemo/chapter10/src/com/atguigu/java/MaxDirectMemorySizeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JVMDemo/chapter11/src/com/atguigu/java/IntCompTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JVMDemo/chapter11/src/com/atguigu/java/JITTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JVMDemo/chapter12/src/com/atguigu/java/GenerateString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JVMDemo/chapter12/src/com/atguigu/java/StringExer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JVMDemo/chapter12/src/com/atguigu/java/StringTest1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JVMDemo/chapter12/src/com/atguigu/java/StringTest2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JVMDemo/chapter12/src/com/atguigu/java/StringTest3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JVMDemo/chapter12/src/com/atguigu/java1/Memory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JVMDemo/chapter12/src/com/atguigu/java1/StringTest4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JVMDemo/chapter12/src/com/atguigu/java1/StringTest5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JVMDemo/chapter12/src/com/atguigu/java2/StringExer1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JVMDemo/chapter12/src/com/atguigu/java2/StringExer2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JVMDemo/chapter12/src/com/atguigu/java2/StringIntern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JVMDemo/chapter12/src/com/atguigu/java2/StringIntern1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JVMDemo/chapter12/src/com/atguigu/java2/StringIntern2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JVMDemo/chapter12/src/com/atguigu/java2/StringNewTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JVMDemo/chapter12/src/com/atguigu/java3/StringGCTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JVMDemo/chapter13/src/com/atguigu/java/CanReliveObj.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JVMDemo/chapter13/src/com/atguigu/java/GCRootsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JVMDemo/chapter13/src/com/atguigu/java/HeapOOM.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JVMDemo/chapter13/src/com/atguigu/java/RefCountGC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JVMDemo/chapter14/src/com/atguigu/java/LocalVarGC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JVMDemo/chapter14/src/com/atguigu/java/StopTheWorldDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JVMDemo/chapter14/src/com/atguigu/java/SystemGCTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JVMDemo/chapter14/src/com/atguigu/java1/PhantomReferenceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JVMDemo/chapter14/src/com/atguigu/java1/SoftReferenceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JVMDemo/chapter14/src/com/atguigu/java1/StrongReferenceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JVMDemo/chapter14/src/com/atguigu/java1/WeakReferenceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JVMDemo/chapter15/src/com/atguigu/java/GCUseTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JVMDemo/words.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ZKclient/ZK_curator/src/main/java/com/pzx/zk_curator/Zk.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../aidex-sharp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../aidex-sharp.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithm/src/main/java/com/atguigu/binarysearchnorecursion/BinarySearchNoRecur.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithm/src/main/java/com/atguigu/divideandconquer/Hanoitower.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/atguigu/avl/AvlTreeDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/atguigu/binarysorttree/BinarySortTree1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/atguigu/binarysorttree/BinarySortTreeDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/atguigu/graph/Graph.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/atguigu/graph/GraphReview.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/atguigu/graph/GraphTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/atguigu/hashtable/HashTableDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/atguigu/hashtable/HashTableDemoReview.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/atguigu/huffmancode/HuffmanCode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/atguigu/huffmancode/HuffmanCodeReview.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/atguigu/huffmancode/file_zip/FileZipAndUnzip.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/atguigu/kmp/SubstringSearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/atguigu/recursion/Nums.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/atguigu/search/BinarySearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/atguigu/search/BinarySearchReview.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/atguigu/search/FibonacciSearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/atguigu/search/InsertValueSearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/atguigu/search/SeqSearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/atguigu/singleton/Singleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/atguigu/sort/BubbleSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/atguigu/sort/InsertSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/atguigu/sort/MergeSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/atguigu/sort/MergeSortReview.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/atguigu/sort/QuickSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/atguigu/sort/QuickSortReview.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/atguigu/sort/RadixSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/atguigu/sort/RadixSortReview.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/atguigu/sort/SelectSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/atguigu/sort/ShellSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/atguigu/test/sort/MergeSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/atguigu/test/sort/MergeSort1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/atguigu/test/sort/QuickSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/atguigu/test/sort/quickSort1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/atguigu/tree/ArrBinaryTreeDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/atguigu/tree/ArrayListTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/atguigu/tree/BinaryTree1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/atguigu/tree/BinaryTreeSortDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/atguigu/tree/HeroNode1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/atguigu/tree/huffmantree/HuffmanTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/atguigu/tree/huffmantree/HuffmanTree1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/atguigu/tree/stackorderTree/BinaryTreeLevelOrderTraversal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/atguigu/tree/stackorderTree/OrderTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/atguigu/tree/stackorderTree/TreeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/atguigu/tree/threadedbinarytree/HeapSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/atguigu/tree/threadedbinarytree/HeapSort1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/atguigu/tree/threadedbinarytree/ThreadedBinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/算法中的一些笔记.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding01-admin-parent/atcrowdfunding02-admin-webui/target/classes/com/atguigu/crowd/test/CrowdTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding01-admin-parent/atcrowdfunding02-admin-webui/target/classes/com/atguigu/crowd/test/StringTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding01-admin-parent/atcrowdfunding02-admin-webui/target/classes/jdbc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding01-admin-parent/atcrowdfunding02-admin-webui/target/classes/logback.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding01-admin-parent/atcrowdfunding02-admin-webui/target/classes/mybatis/mapper/AdminMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding01-admin-parent/atcrowdfunding02-admin-webui/target/classes/mybatis/mapper/AuthMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding01-admin-parent/atcrowdfunding02-admin-webui/target/classes/mybatis/mapper/MenuMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding01-admin-parent/atcrowdfunding02-admin-webui/target/classes/mybatis/mapper/RoleMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding01-admin-parent/atcrowdfunding02-admin-webui/target/classes/mybatis/mybatis-config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding01-admin-parent/atcrowdfunding02-admin-webui/target/classes/spring-persist-mybatis.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding01-admin-parent/atcrowdfunding02-admin-webui/target/classes/spring-persist-tx.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding01-admin-parent/atcrowdfunding02-admin-webui/target/classes/spring-web-mvc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding01-admin-parent/atcrowdfunding02-admin-webui/target/classes/要点.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding01-admin-parent/atcrowdfunding03-admin-componet/target/classes/com/atguigu/crowd/mapper/AdminMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding01-admin-parent/atcrowdfunding03-admin-componet/target/classes/com/atguigu/crowd/mapper/AuthMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding01-admin-parent/atcrowdfunding03-admin-componet/target/classes/com/atguigu/crowd/mapper/MenuMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding01-admin-parent/atcrowdfunding03-admin-componet/target/classes/com/atguigu/crowd/mapper/RoleMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding01-admin-parent/atcrowdfunding03-admin-componet/target/classes/com/atguigu/crowd/mvc/config/CrowdExceptionResolver.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding01-admin-parent/atcrowdfunding03-admin-componet/target/classes/com/atguigu/crowd/mvc/config/CrowdUserDetailsService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding01-admin-parent/atcrowdfunding03-admin-componet/target/classes/com/atguigu/crowd/mvc/config/SecurityAdmin.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding01-admin-parent/atcrowdfunding03-admin-componet/target/classes/com/atguigu/crowd/mvc/config/WebAppSecurityConfig$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding01-admin-parent/atcrowdfunding03-admin-componet/target/classes/com/atguigu/crowd/mvc/config/WebAppSecurityConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding01-admin-parent/atcrowdfunding03-admin-componet/target/classes/com/atguigu/crowd/mvc/handler/AdminHandler.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding01-admin-parent/atcrowdfunding03-admin-componet/target/classes/com/atguigu/crowd/mvc/handler/AssignHandler.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding01-admin-parent/atcrowdfunding03-admin-componet/target/classes/com/atguigu/crowd/mvc/handler/MenuHandler.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding01-admin-parent/atcrowdfunding03-admin-componet/target/classes/com/atguigu/crowd/mvc/handler/RoleHandler.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding01-admin-parent/atcrowdfunding03-admin-componet/target/classes/com/atguigu/crowd/mvc/handler/TestHandler.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding01-admin-parent/atcrowdfunding03-admin-componet/target/classes/com/atguigu/crowd/mvc/interceptor/LoginInterceptor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding01-admin-parent/atcrowdfunding03-admin-componet/target/classes/com/atguigu/crowd/service/api/AdminService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding01-admin-parent/atcrowdfunding03-admin-componet/target/classes/com/atguigu/crowd/service/api/AuthService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding01-admin-parent/atcrowdfunding03-admin-componet/target/classes/com/atguigu/crowd/service/api/MenuService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding01-admin-parent/atcrowdfunding03-admin-componet/target/classes/com/atguigu/crowd/service/api/RoleService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding01-admin-parent/atcrowdfunding03-admin-componet/target/classes/com/atguigu/crowd/service/impl/AdminServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding01-admin-parent/atcrowdfunding03-admin-componet/target/classes/com/atguigu/crowd/service/impl/AuthServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding01-admin-parent/atcrowdfunding03-admin-componet/target/classes/com/atguigu/crowd/service/impl/MenuServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding01-admin-parent/atcrowdfunding03-admin-componet/target/classes/com/atguigu/crowd/service/impl/RoleServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding01-admin-parent/atcrowdfunding03-admin-componet/target/classes/jdbc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding01-admin-parent/atcrowdfunding03-admin-componet/target/classes/org/springframework/security/taglibs/authz/AbstractAuthorizeTag$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding01-admin-parent/atcrowdfunding03-admin-componet/target/classes/org/springframework/security/taglibs/authz/AbstractAuthorizeTag.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding01-admin-parent/atcrowdfunding03-admin-componet/target/classes/org/springframework/web/filter/DelegatingFilterProxy.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding01-admin-parent/atcrowdfunding03-admin-componet/target/test-classes/TestDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding01-admin-parent/atcrowdfunding04-admin-entity/target/classes/com/atguigu/crowd/entity/Address.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding01-admin-parent/atcrowdfunding04-admin-entity/target/classes/com/atguigu/crowd/entity/Admin.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding01-admin-parent/atcrowdfunding04-admin-entity/target/classes/com/atguigu/crowd/entity/AdminExample$Criteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding01-admin-parent/atcrowdfunding04-admin-entity/target/classes/com/atguigu/crowd/entity/AdminExample$Criterion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding01-admin-parent/atcrowdfunding04-admin-entity/target/classes/com/atguigu/crowd/entity/AdminExample$GeneratedCriteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding01-admin-parent/atcrowdfunding04-admin-entity/target/classes/com/atguigu/crowd/entity/AdminExample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding01-admin-parent/atcrowdfunding04-admin-entity/target/classes/com/atguigu/crowd/entity/Auth.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding01-admin-parent/atcrowdfunding04-admin-entity/target/classes/com/atguigu/crowd/entity/AuthExample$Criteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding01-admin-parent/atcrowdfunding04-admin-entity/target/classes/com/atguigu/crowd/entity/AuthExample$Criterion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding01-admin-parent/atcrowdfunding04-admin-entity/target/classes/com/atguigu/crowd/entity/AuthExample$GeneratedCriteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding01-admin-parent/atcrowdfunding04-admin-entity/target/classes/com/atguigu/crowd/entity/AuthExample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding01-admin-parent/atcrowdfunding04-admin-entity/target/classes/com/atguigu/crowd/entity/Menu.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding01-admin-parent/atcrowdfunding04-admin-entity/target/classes/com/atguigu/crowd/entity/MenuExample$Criteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding01-admin-parent/atcrowdfunding04-admin-entity/target/classes/com/atguigu/crowd/entity/MenuExample$Criterion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding01-admin-parent/atcrowdfunding04-admin-entity/target/classes/com/atguigu/crowd/entity/MenuExample$GeneratedCriteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding01-admin-parent/atcrowdfunding04-admin-entity/target/classes/com/atguigu/crowd/entity/MenuExample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding01-admin-parent/atcrowdfunding04-admin-entity/target/classes/com/atguigu/crowd/entity/ParamData.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding01-admin-parent/atcrowdfunding04-admin-entity/target/classes/com/atguigu/crowd/entity/Role.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding01-admin-parent/atcrowdfunding04-admin-entity/target/classes/com/atguigu/crowd/entity/RoleExample$Criteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding01-admin-parent/atcrowdfunding04-admin-entity/target/classes/com/atguigu/crowd/entity/RoleExample$Criterion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding01-admin-parent/atcrowdfunding04-admin-entity/target/classes/com/atguigu/crowd/entity/RoleExample$GeneratedCriteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding01-admin-parent/atcrowdfunding04-admin-entity/target/classes/com/atguigu/crowd/entity/RoleExample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding01-admin-parent/atcrowdfunding04-admin-entity/target/classes/com/atguigu/crowd/entity/Student.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding01-admin-parent/atcrowdfunding04-admin-entity/target/classes/com/atguigu/crowd/entity/Subject.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding05-common-util/target/classes/com/atguigu/crowd/constant/AccessPassResource.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding05-common-util/target/classes/com/atguigu/crowd/constant/CrowdConstant.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding05-common-util/target/classes/com/atguigu/crowd/exception/AccessForbiddenException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding05-common-util/target/classes/com/atguigu/crowd/exception/AddRoleException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding05-common-util/target/classes/com/atguigu/crowd/exception/LoginAcctAlreadyInUseException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding05-common-util/target/classes/com/atguigu/crowd/exception/LoginAcctAlreadyInUseForUpdateException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding05-common-util/target/classes/com/atguigu/crowd/exception/LoginFailedException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding05-common-util/target/classes/com/atguigu/crowd/message/RadomData.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding05-common-util/target/classes/com/atguigu/crowd/message/SendSms.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding05-common-util/target/classes/com/atguigu/crowd/util/ChineseName.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding05-common-util/target/classes/com/atguigu/crowd/util/CrowdUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding05-common-util/target/classes/com/atguigu/crowd/util/IdWorker.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding05-common-util/target/classes/com/atguigu/crowd/util/ResultEntity.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding05-common-util/target/test-classes/TestData.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding06-common-reverse/target/classes/generatorConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding06-common-reverse/target/classes/jdbc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding07-member-parent/atcrowdfunding08-member-eureka/target/classes/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding07-member-parent/atcrowdfunding08-member-eureka/target/classes/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding07-member-parent/atcrowdfunding08-member-eureka/target/classes/com/atguigu/crowd/Atcrowdfunding08MemberEurekaApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding07-member-parent/atcrowdfunding08-member-eureka/target/test-classes/com/atguigu/crowd/Atcrowdfunding08MemberEurekaApplicationTests.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding07-member-parent/atcrowdfunding09-member-entity/target/classes/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding07-member-parent/atcrowdfunding09-member-entity/target/classes/com/atguigu/crowd/Atcrowdfunding09MemberEntityApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding07-member-parent/atcrowdfunding09-member-entity/target/classes/com/atguigu/crowd/entity/po/AddressPO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding07-member-parent/atcrowdfunding09-member-entity/target/classes/com/atguigu/crowd/entity/po/AddressPOExample$Criteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding07-member-parent/atcrowdfunding09-member-entity/target/classes/com/atguigu/crowd/entity/po/AddressPOExample$Criterion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding07-member-parent/atcrowdfunding09-member-entity/target/classes/com/atguigu/crowd/entity/po/AddressPOExample$GeneratedCriteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding07-member-parent/atcrowdfunding09-member-entity/target/classes/com/atguigu/crowd/entity/po/AddressPOExample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding07-member-parent/atcrowdfunding09-member-entity/target/classes/com/atguigu/crowd/entity/po/MemberConfirmInfoPO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding07-member-parent/atcrowdfunding09-member-entity/target/classes/com/atguigu/crowd/entity/po/MemberConfirmInfoPOExample$Criteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding07-member-parent/atcrowdfunding09-member-entity/target/classes/com/atguigu/crowd/entity/po/MemberConfirmInfoPOExample$Criterion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding07-member-parent/atcrowdfunding09-member-entity/target/classes/com/atguigu/crowd/entity/po/MemberConfirmInfoPOExample$GeneratedCriteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding07-member-parent/atcrowdfunding09-member-entity/target/classes/com/atguigu/crowd/entity/po/MemberConfirmInfoPOExample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding07-member-parent/atcrowdfunding09-member-entity/target/classes/com/atguigu/crowd/entity/po/MemberLaunchInfoPO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding07-member-parent/atcrowdfunding09-member-entity/target/classes/com/atguigu/crowd/entity/po/MemberLaunchInfoPOExample$Criteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding07-member-parent/atcrowdfunding09-member-entity/target/classes/com/atguigu/crowd/entity/po/MemberLaunchInfoPOExample$Criterion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding07-member-parent/atcrowdfunding09-member-entity/target/classes/com/atguigu/crowd/entity/po/MemberLaunchInfoPOExample$GeneratedCriteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding07-member-parent/atcrowdfunding09-member-entity/target/classes/com/atguigu/crowd/entity/po/MemberLaunchInfoPOExample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding07-member-parent/atcrowdfunding09-member-entity/target/classes/com/atguigu/crowd/entity/po/MemberPO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding07-member-parent/atcrowdfunding09-member-entity/target/classes/com/atguigu/crowd/entity/po/MemberPOExample$Criteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding07-member-parent/atcrowdfunding09-member-entity/target/classes/com/atguigu/crowd/entity/po/MemberPOExample$Criterion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding07-member-parent/atcrowdfunding09-member-entity/target/classes/com/atguigu/crowd/entity/po/MemberPOExample$GeneratedCriteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding07-member-parent/atcrowdfunding09-member-entity/target/classes/com/atguigu/crowd/entity/po/MemberPOExample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding07-member-parent/atcrowdfunding09-member-entity/target/classes/com/atguigu/crowd/entity/po/OrderPO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding07-member-parent/atcrowdfunding09-member-entity/target/classes/com/atguigu/crowd/entity/po/OrderPOExample$Criteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding07-member-parent/atcrowdfunding09-member-entity/target/classes/com/atguigu/crowd/entity/po/OrderPOExample$Criterion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding07-member-parent/atcrowdfunding09-member-entity/target/classes/com/atguigu/crowd/entity/po/OrderPOExample$GeneratedCriteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding07-member-parent/atcrowdfunding09-member-entity/target/classes/com/atguigu/crowd/entity/po/OrderPOExample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding07-member-parent/atcrowdfunding09-member-entity/target/classes/com/atguigu/crowd/entity/po/OrderProjectPO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding07-member-parent/atcrowdfunding09-member-entity/target/classes/com/atguigu/crowd/entity/po/OrderProjectPOExample$Criteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding07-member-parent/atcrowdfunding09-member-entity/target/classes/com/atguigu/crowd/entity/po/OrderProjectPOExample$Criterion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding07-member-parent/atcrowdfunding09-member-entity/target/classes/com/atguigu/crowd/entity/po/OrderProjectPOExample$GeneratedCriteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding07-member-parent/atcrowdfunding09-member-entity/target/classes/com/atguigu/crowd/entity/po/OrderProjectPOExample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding07-member-parent/atcrowdfunding09-member-entity/target/classes/com/atguigu/crowd/entity/po/ProjectItemPicPO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding07-member-parent/atcrowdfunding09-member-entity/target/classes/com/atguigu/crowd/entity/po/ProjectItemPicPOExample$Criteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding07-member-parent/atcrowdfunding09-member-entity/target/classes/com/atguigu/crowd/entity/po/ProjectItemPicPOExample$Criterion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding07-member-parent/atcrowdfunding09-member-entity/target/classes/com/atguigu/crowd/entity/po/ProjectItemPicPOExample$GeneratedCriteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding07-member-parent/atcrowdfunding09-member-entity/target/classes/com/atguigu/crowd/entity/po/ProjectItemPicPOExample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding07-member-parent/atcrowdfunding09-member-entity/target/classes/com/atguigu/crowd/entity/po/ProjectPO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding07-member-parent/atcrowdfunding09-member-entity/target/classes/com/atguigu/crowd/entity/po/ProjectPOExample$Criteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding07-member-parent/atcrowdfunding09-member-entity/target/classes/com/atguigu/crowd/entity/po/ProjectPOExample$Criterion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding07-member-parent/atcrowdfunding09-member-entity/target/classes/com/atguigu/crowd/entity/po/ProjectPOExample$GeneratedCriteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding07-member-parent/atcrowdfunding09-member-entity/target/classes/com/atguigu/crowd/entity/po/ProjectPOExample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding07-member-parent/atcrowdfunding09-member-entity/target/classes/com/atguigu/crowd/entity/po/ReturnPO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding07-member-parent/atcrowdfunding09-member-entity/target/classes/com/atguigu/crowd/entity/po/ReturnPOExample$Criteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding07-member-parent/atcrowdfunding09-member-entity/target/classes/com/atguigu/crowd/entity/po/ReturnPOExample$Criterion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding07-member-parent/atcrowdfunding09-member-entity/target/classes/com/atguigu/crowd/entity/po/ReturnPOExample$GeneratedCriteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding07-member-parent/atcrowdfunding09-member-entity/target/classes/com/atguigu/crowd/entity/po/ReturnPOExample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding07-member-parent/atcrowdfunding09-member-entity/target/classes/com/atguigu/crowd/entity/po/TagPO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding07-member-parent/atcrowdfunding09-member-entity/target/classes/com/atguigu/crowd/entity/po/TagPOExample$Criteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding07-member-parent/atcrowdfunding09-member-entity/target/classes/com/atguigu/crowd/entity/po/TagPOExample$Criterion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding07-member-parent/atcrowdfunding09-member-entity/target/classes/com/atguigu/crowd/entity/po/TagPOExample$GeneratedCriteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding07-member-parent/atcrowdfunding09-member-entity/target/classes/com/atguigu/crowd/entity/po/TagPOExample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding07-member-parent/atcrowdfunding09-member-entity/target/classes/com/atguigu/crowd/entity/po/TypePO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding07-member-parent/atcrowdfunding09-member-entity/target/classes/com/atguigu/crowd/entity/po/TypePOExample$Criteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding07-member-parent/atcrowdfunding09-member-entity/target/classes/com/atguigu/crowd/entity/po/TypePOExample$Criterion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding07-member-parent/atcrowdfunding09-member-entity/target/classes/com/atguigu/crowd/entity/po/TypePOExample$GeneratedCriteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding07-member-parent/atcrowdfunding09-member-entity/target/classes/com/atguigu/crowd/entity/po/TypePOExample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding07-member-parent/atcrowdfunding09-member-entity/target/classes/com/atguigu/crowd/entity/vo/AddressVO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding07-member-parent/atcrowdfunding09-member-entity/target/classes/com/atguigu/crowd/entity/vo/DetailProjectVO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding07-member-parent/atcrowdfunding09-member-entity/target/classes/com/atguigu/crowd/entity/vo/DetailReturnVO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding07-member-parent/atcrowdfunding09-member-entity/target/classes/com/atguigu/crowd/entity/vo/MemberConfirmInfoVO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding07-member-parent/atcrowdfunding09-member-entity/target/classes/com/atguigu/crowd/entity/vo/MemberLauchInfoVO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding07-member-parent/atcrowdfunding09-member-entity/target/classes/com/atguigu/crowd/entity/vo/MemberLoginVo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding07-member-parent/atcrowdfunding09-member-entity/target/classes/com/atguigu/crowd/entity/vo/MemberVo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding07-member-parent/atcrowdfunding09-member-entity/target/classes/com/atguigu/crowd/entity/vo/OrderProjectVO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding07-member-parent/atcrowdfunding09-member-entity/target/classes/com/atguigu/crowd/entity/vo/OrderVO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding07-member-parent/atcrowdfunding09-member-entity/target/classes/com/atguigu/crowd/entity/vo/PortalProjectVO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding07-member-parent/atcrowdfunding09-member-entity/target/classes/com/atguigu/crowd/entity/vo/PortalTypeVO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding07-member-parent/atcrowdfunding09-member-entity/target/classes/com/atguigu/crowd/entity/vo/ProjectVO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding07-member-parent/atcrowdfunding09-member-entity/target/classes/com/atguigu/crowd/entity/vo/ReturnVO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding07-member-parent/atcrowdfunding09-member-entity/target/test-classes/com/atguigu/crowd/Atcrowdfunding09MemberEntityApplicationTests.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding07-member-parent/atcrowdfunding10-member-mysql-provider/target/classes/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding07-member-parent/atcrowdfunding10-member-mysql-provider/target/classes/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding07-member-parent/atcrowdfunding10-member-mysql-provider/target/classes/com/atguigu/crowd/Atcrowdfunding10MemberMysqlProviderApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding07-member-parent/atcrowdfunding10-member-mysql-provider/target/classes/com/atguigu/crowd/handler/MemberProviderHandler.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding07-member-parent/atcrowdfunding10-member-mysql-provider/target/classes/com/atguigu/crowd/handler/OrderProviderHandler.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding07-member-parent/atcrowdfunding10-member-mysql-provider/target/classes/com/atguigu/crowd/handler/ProjectProviderHandler.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding07-member-parent/atcrowdfunding10-member-mysql-provider/target/classes/com/atguigu/crowd/mapper/AddressPOMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding07-member-parent/atcrowdfunding10-member-mysql-provider/target/classes/com/atguigu/crowd/mapper/MemberConfirmInfoPOMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding07-member-parent/atcrowdfunding10-member-mysql-provider/target/classes/com/atguigu/crowd/mapper/MemberLaunchInfoPOMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding07-member-parent/atcrowdfunding10-member-mysql-provider/target/classes/com/atguigu/crowd/mapper/MemberPOMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding07-member-parent/atcrowdfunding10-member-mysql-provider/target/classes/com/atguigu/crowd/mapper/OrderPOMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding07-member-parent/atcrowdfunding10-member-mysql-provider/target/classes/com/atguigu/crowd/mapper/OrderProjectPOMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding07-member-parent/atcrowdfunding10-member-mysql-provider/target/classes/com/atguigu/crowd/mapper/ProjectItemPicPOMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding07-member-parent/atcrowdfunding10-member-mysql-provider/target/classes/com/atguigu/crowd/mapper/ProjectPOMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding07-member-parent/atcrowdfunding10-member-mysql-provider/target/classes/com/atguigu/crowd/mapper/ReturnPOMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding07-member-parent/atcrowdfunding10-member-mysql-provider/target/classes/com/atguigu/crowd/mapper/TagPOMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding07-member-parent/atcrowdfunding10-member-mysql-provider/target/classes/com/atguigu/crowd/mapper/TypePOMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding07-member-parent/atcrowdfunding10-member-mysql-provider/target/classes/com/atguigu/crowd/service/api/MemberService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding07-member-parent/atcrowdfunding10-member-mysql-provider/target/classes/com/atguigu/crowd/service/api/OrderService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding07-member-parent/atcrowdfunding10-member-mysql-provider/target/classes/com/atguigu/crowd/service/api/ProjectService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding07-member-parent/atcrowdfunding10-member-mysql-provider/target/classes/com/atguigu/crowd/service/impl/MemberServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding07-member-parent/atcrowdfunding10-member-mysql-provider/target/classes/com/atguigu/crowd/service/impl/OrderServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding07-member-parent/atcrowdfunding10-member-mysql-provider/target/classes/com/atguigu/crowd/service/impl/ProjectServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding07-member-parent/atcrowdfunding10-member-mysql-provider/target/classes/mybatis/mapper/AddressPOMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding07-member-parent/atcrowdfunding10-member-mysql-provider/target/classes/mybatis/mapper/MemberConfirmInfoPOMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding07-member-parent/atcrowdfunding10-member-mysql-provider/target/classes/mybatis/mapper/MemberLaunchInfoPOMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding07-member-parent/atcrowdfunding10-member-mysql-provider/target/classes/mybatis/mapper/MemberPOMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding07-member-parent/atcrowdfunding10-member-mysql-provider/target/classes/mybatis/mapper/OrderPOMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding07-member-parent/atcrowdfunding10-member-mysql-provider/target/classes/mybatis/mapper/OrderProjectPOMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding07-member-parent/atcrowdfunding10-member-mysql-provider/target/classes/mybatis/mapper/ProjectItemPicPOMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding07-member-parent/atcrowdfunding10-member-mysql-provider/target/classes/mybatis/mapper/ProjectPOMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding07-member-parent/atcrowdfunding10-member-mysql-provider/target/classes/mybatis/mapper/ReturnPOMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding07-member-parent/atcrowdfunding10-member-mysql-provider/target/classes/mybatis/mapper/TagPOMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding07-member-parent/atcrowdfunding10-member-mysql-provider/target/classes/mybatis/mapper/TypePOMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding07-member-parent/atcrowdfunding10-member-mysql-provider/target/test-classes/com/atguigu/crowd/Atcrowdfunding10MemberMysqlProviderApplicationTests$Monkey.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding07-member-parent/atcrowdfunding10-member-mysql-provider/target/test-classes/com/atguigu/crowd/Atcrowdfunding10MemberMysqlProviderApplicationTests$Person.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding07-member-parent/atcrowdfunding10-member-mysql-provider/target/test-classes/com/atguigu/crowd/Atcrowdfunding10MemberMysqlProviderApplicationTests.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding07-member-parent/atcrowdfunding10-member-mysql-provider/target/test-classes/com/atguigu/crowd/TestDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding07-member-parent/atcrowdfunding11-member-redis-provider/target/classes/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding07-member-parent/atcrowdfunding11-member-redis-provider/target/classes/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding07-member-parent/atcrowdfunding11-member-redis-provider/target/classes/com/atguigu/crowd/Atcrowdfunding11MemberRedisProviderApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding07-member-parent/atcrowdfunding11-member-redis-provider/target/classes/com/atguigu/crowd/handler/RedisHandler.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding07-member-parent/atcrowdfunding11-member-redis-provider/target/test-classes/com/atguigu/crowd/Atcrowdfunding11MemberRedisProviderApplicationTests.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding07-member-parent/atcrowdfunding12-member-authentication-consumer/target/classes/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding07-member-parent/atcrowdfunding12-member-authentication-consumer/target/classes/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding07-member-parent/atcrowdfunding12-member-authentication-consumer/target/classes/com/atguigu/crowd/Atcrowdfunding12MemberAuthenticationConsumerApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding07-member-parent/atcrowdfunding12-member-authentication-consumer/target/classes/com/atguigu/crowd/config/CrowdWebMvcConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding07-member-parent/atcrowdfunding12-member-authentication-consumer/target/classes/com/atguigu/crowd/handler/PortalHandler.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding07-member-parent/atcrowdfunding12-member-authentication-consumer/target/classes/static/bootstrap/css/bootstrap-theme.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding07-member-parent/atcrowdfunding12-member-authentication-consumer/target/classes/static/bootstrap/css/bootstrap-theme.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding07-member-parent/atcrowdfunding12-member-authentication-consumer/target/classes/static/bootstrap/css/bootstrap-theme.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding07-member-parent/atcrowdfunding12-member-authentication-consumer/target/classes/static/bootstrap/css/bootstrap-theme.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding07-member-parent/atcrowdfunding12-member-authentication-consumer/target/classes/static/bootstrap/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding07-member-parent/atcrowdfunding12-member-authentication-consumer/target/classes/static/bootstrap/css/bootstrap.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding07-member-parent/atcrowdfunding12-member-authentication-consumer/target/classes/static/bootstrap/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding07-member-parent/atcrowdfunding12-member-authentication-consumer/target/classes/static/bootstrap/css/bootstrap.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding07-member-parent/atcrowdfunding12-member-authentication-consumer/target/classes/static/bootstrap/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding07-member-parent/atcrowdfunding12-member-authentication-consumer/target/classes/static/bootstrap/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding07-member-parent/atcrowdfunding12-member-authentication-consumer/target/classes/static/bootstrap/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding07-member-parent/atcrowdfunding12-member-authentication-consumer/target/classes/static/bootstrap/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding07-member-parent/atcrowdfunding12-member-authentication-consumer/target/classes/static/bootstrap/fonts/glyphicons-halflings-regular.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding07-member-parent/atcrowdfunding12-member-authentication-consumer/target/classes/static/bootstrap/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding07-member-parent/atcrowdfunding12-member-authentication-consumer/target/classes/static/bootstrap/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding07-member-parent/atcrowdfunding12-member-authentication-consumer/target/classes/static/bootstrap/js/npm.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding07-member-parent/atcrowdfunding12-member-authentication-consumer/target/classes/static/css/carousel.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding07-member-parent/atcrowdfunding12-member-authentication-consumer/target/classes/static/css/doc.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding07-member-parent/atcrowdfunding12-member-authentication-consumer/target/classes/static/css/font-awesome.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding07-member-parent/atcrowdfunding12-member-authentication-consumer/target/classes/static/css/login.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding07-member-parent/atcrowdfunding12-member-authentication-consumer/target/classes/static/css/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding07-member-parent/atcrowdfunding12-member-authentication-consumer/target/classes/static/css/theme.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding07-member-parent/atcrowdfunding12-member-authentication-consumer/target/classes/static/fonts/FontAwesome.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding07-member-parent/atcrowdfunding12-member-authentication-consumer/target/classes/static/fonts/fontawesome-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding07-member-parent/atcrowdfunding12-member-authentication-consumer/target/classes/static/fonts/fontawesome-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding07-member-parent/atcrowdfunding12-member-authentication-consumer/target/classes/static/fonts/fontawesome-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding07-member-parent/atcrowdfunding12-member-authentication-consumer/target/classes/static/fonts/fontawesome-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding07-member-parent/atcrowdfunding12-member-authentication-consumer/target/classes/static/fonts/fontawesome4.2/FontAwesome.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding07-member-parent/atcrowdfunding12-member-authentication-consumer/target/classes/static/fonts/fontawesome4.2/fontawesome-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding07-member-parent/atcrowdfunding12-member-authentication-consumer/target/classes/static/fonts/fontawesome4.2/fontawesome-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding07-member-parent/atcrowdfunding12-member-authentication-consumer/target/classes/static/fonts/fontawesome4.2/fontawesome-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding07-member-parent/atcrowdfunding12-member-authentication-consumer/target/classes/static/fonts/fontawesome4.2/fontawesome-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding07-member-parent/atcrowdfunding12-member-authentication-consumer/target/classes/static/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding07-member-parent/atcrowdfunding12-member-authentication-consumer/target/classes/static/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding07-member-parent/atcrowdfunding12-member-authentication-consumer/target/classes/static/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding07-member-parent/atcrowdfunding12-member-authentication-consumer/target/classes/static/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding07-member-parent/atcrowdfunding12-member-authentication-consumer/target/classes/static/img/carousel-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding07-member-parent/atcrowdfunding12-member-authentication-consumer/target/classes/static/img/carousel-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding07-member-parent/atcrowdfunding12-member-authentication-consumer/target/classes/static/img/carousel-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding07-member-parent/atcrowdfunding12-member-authentication-consumer/target/classes/static/img/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding07-member-parent/atcrowdfunding12-member-authentication-consumer/target/classes/static/img/p1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding07-member-parent/atcrowdfunding12-member-authentication-consumer/target/classes/static/img/p2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding07-member-parent/atcrowdfunding12-member-authentication-consumer/target/classes/static/img/p3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding07-member-parent/atcrowdfunding12-member-authentication-consumer/target/classes/static/img/p3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding07-member-parent/atcrowdfunding12-member-authentication-consumer/target/classes/static/img/pic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding07-member-parent/atcrowdfunding12-member-authentication-consumer/target/classes/static/img/product-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding07-member-parent/atcrowdfunding12-member-authentication-consumer/target/classes/static/img/product-2.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding07-member-parent/atcrowdfunding12-member-authentication-consumer/target/classes/static/img/product-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding07-member-parent/atcrowdfunding12-member-authentication-consumer/target/classes/static/img/product-4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding07-member-parent/atcrowdfunding12-member-authentication-consumer/target/classes/static/img/product-5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding07-member-parent/atcrowdfunding12-member-authentication-consumer/target/classes/static/img/product-6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding07-member-parent/atcrowdfunding12-member-authentication-consumer/target/classes/static/img/product-7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding07-member-parent/atcrowdfunding12-member-authentication-consumer/target/classes/static/img/product-8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding07-member-parent/atcrowdfunding12-member-authentication-consumer/target/classes/static/img/product-9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding07-member-parent/atcrowdfunding12-member-authentication-consumer/target/classes/static/img/product_detail_body.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding07-member-parent/atcrowdfunding12-member-authentication-consumer/target/classes/static/img/product_detail_head.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding07-member-parent/atcrowdfunding12-member-authentication-consumer/target/classes/static/img/services-box1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding07-member-parent/atcrowdfunding12-member-authentication-consumer/target/classes/static/img/services-box2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding07-member-parent/atcrowdfunding12-member-authentication-consumer/target/classes/static/img/services-box3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding07-member-parent/atcrowdfunding12-member-authentication-consumer/target/classes/static/img/services-box4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding07-member-parent/atcrowdfunding12-member-authentication-consumer/target/classes/static/jquery/jquery-2.1.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding07-member-parent/atcrowdfunding12-member-authentication-consumer/target/classes/static/jquery/jquery-form.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding07-member-parent/atcrowdfunding12-member-authentication-consumer/target/classes/static/jquery/jquery.pagination.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding07-member-parent/atcrowdfunding12-member-authentication-consumer/target/classes/static/layer/layer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding07-member-parent/atcrowdfunding12-member-authentication-consumer/target/classes/static/layer/mobile/layer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding07-member-parent/atcrowdfunding12-member-authentication-consumer/target/classes/static/layer/mobile/need/layer.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding07-member-parent/atcrowdfunding12-member-authentication-consumer/target/classes/static/layer/theme/default/icon-ext.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding07-member-parent/atcrowdfunding12-member-authentication-consumer/target/classes/static/layer/theme/default/icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding07-member-parent/atcrowdfunding12-member-authentication-consumer/target/classes/static/layer/theme/default/layer.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding07-member-parent/atcrowdfunding12-member-authentication-consumer/target/classes/static/layer/theme/default/loading-0.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding07-member-parent/atcrowdfunding12-member-authentication-consumer/target/classes/static/layer/theme/default/loading-1.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding07-member-parent/atcrowdfunding12-member-authentication-consumer/target/classes/static/layer/theme/default/loading-2.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding07-member-parent/atcrowdfunding12-member-authentication-consumer/target/classes/static/script/back-to-top.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding07-member-parent/atcrowdfunding12-member-authentication-consumer/target/classes/static/script/docs.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding07-member-parent/atcrowdfunding12-member-authentication-consumer/target/classes/static/script/echarts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding07-member-parent/atcrowdfunding12-member-authentication-consumer/target/classes/static/ztree/img/diy/1_close.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding07-member-parent/atcrowdfunding12-member-authentication-consumer/target/classes/static/ztree/img/diy/1_open.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding07-member-parent/atcrowdfunding12-member-authentication-consumer/target/classes/static/ztree/img/diy/2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding07-member-parent/atcrowdfunding12-member-authentication-consumer/target/classes/static/ztree/img/diy/3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding07-member-parent/atcrowdfunding12-member-authentication-consumer/target/classes/static/ztree/img/diy/4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding07-member-parent/atcrowdfunding12-member-authentication-consumer/target/classes/static/ztree/img/diy/5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding07-member-parent/atcrowdfunding12-member-authentication-consumer/target/classes/static/ztree/img/diy/6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding07-member-parent/atcrowdfunding12-member-authentication-consumer/target/classes/static/ztree/img/diy/7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding07-member-parent/atcrowdfunding12-member-authentication-consumer/target/classes/static/ztree/img/diy/8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding07-member-parent/atcrowdfunding12-member-authentication-consumer/target/classes/static/ztree/img/diy/9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding07-member-parent/atcrowdfunding12-member-authentication-consumer/target/classes/static/ztree/img/line_conn.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding07-member-parent/atcrowdfunding12-member-authentication-consumer/target/classes/static/ztree/img/loading.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding07-member-parent/atcrowdfunding12-member-authentication-consumer/target/classes/static/ztree/img/zTreeStandard.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding07-member-parent/atcrowdfunding12-member-authentication-consumer/target/classes/static/ztree/img/zTreeStandard.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding07-member-parent/atcrowdfunding12-member-authentication-consumer/target/classes/static/ztree/jquery.ztree.all-3.5.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding07-member-parent/atcrowdfunding12-member-authentication-consumer/target/classes/static/ztree/zTreeStyle.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding07-member-parent/atcrowdfunding12-member-authentication-consumer/target/classes/templates/member-center.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding07-member-parent/atcrowdfunding12-member-authentication-consumer/target/classes/templates/member-crowd.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding07-member-parent/atcrowdfunding12-member-authentication-consumer/target/classes/templates/member-login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding07-member-parent/atcrowdfunding12-member-authentication-consumer/target/classes/templates/member-reg.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding07-member-parent/atcrowdfunding12-member-authentication-consumer/target/classes/templates/portal.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding07-member-parent/atcrowdfunding12-member-authentication-consumer/target/test-classes/com/atguigu/crowd/Atcrowdfunding12MemberAuthenticationConsumerApplicationTests.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding07-member-parent/atcrowdfunding12-member-authentication-consumer/target/test-classes/com/atguigu/crowd/CommonTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding07-member-parent/atcrowdfunding12-member-authentication-consumer/target/test-classes/com/atguigu/crowd/RadomData.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding07-member-parent/atcrowdfunding12-member-authentication-consumer/target/test-classes/com/atguigu/crowd/SendSms.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding07-member-parent/atcrowdfunding13-member-project-consumer/target/classes/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding07-member-parent/atcrowdfunding13-member-project-consumer/target/classes/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding07-member-parent/atcrowdfunding13-member-project-consumer/target/classes/com/atguigu/crowd/Atcrowdfunding13MemberProjectConsumerApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding07-member-parent/atcrowdfunding13-member-project-consumer/target/classes/com/atguigu/crowd/config/CrowdWebMvcConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding07-member-parent/atcrowdfunding13-member-project-consumer/target/classes/com/atguigu/crowd/config/OSSProperties.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding07-member-parent/atcrowdfunding13-member-project-consumer/target/classes/com/atguigu/crowd/handler/ProjectConsumerHandler.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding07-member-parent/atcrowdfunding13-member-project-consumer/target/classes/templates/project-agree.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding07-member-parent/atcrowdfunding13-member-project-consumer/target/classes/templates/project-confirm.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding07-member-parent/atcrowdfunding13-member-project-consumer/target/classes/templates/project-detail.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding07-member-parent/atcrowdfunding13-member-project-consumer/target/classes/templates/project-launch.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding07-member-parent/atcrowdfunding13-member-project-consumer/target/classes/templates/project-return.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding07-member-parent/atcrowdfunding13-member-project-consumer/target/classes/templates/project-success.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding07-member-parent/atcrowdfunding14-member-order-consumer/target/classes/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding07-member-parent/atcrowdfunding14-member-order-consumer/target/classes/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding07-member-parent/atcrowdfunding14-member-order-consumer/target/classes/com/atguigu/crowd/Atcrowdfunding14MemberOrderConsumerApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding07-member-parent/atcrowdfunding14-member-order-consumer/target/classes/com/atguigu/crowd/config/PayProperties.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding07-member-parent/atcrowdfunding14-member-order-consumer/target/classes/com/atguigu/crowd/handler/OrderHandler.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding07-member-parent/atcrowdfunding14-member-order-consumer/target/classes/com/atguigu/crowd/handler/PayHandler.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding07-member-parent/atcrowdfunding14-member-order-consumer/target/classes/templates/confirm_order.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding07-member-parent/atcrowdfunding14-member-order-consumer/target/classes/templates/confirm_return.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding07-member-parent/atcrowdfunding14-member-order-consumer/target/test-classes/com/atguigu/crowd/Atcrowdfunding14MemberOrderConsumerApplicationTests.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding07-member-parent/atcrowdfunding15-member-pay-consumer/target/classes/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding07-member-parent/atcrowdfunding15-member-pay-consumer/target/classes/com/atguigu/crowd/Atcrowdfunding15MemberPayConsumerApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding07-member-parent/atcrowdfunding15-member-pay-consumer/target/test-classes/com/atguigu/crowd/Atcrowdfunding15MemberPayConsumerApplicationTests.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding07-member-parent/atcrowdfunding16-member-zuul/target/classes/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding07-member-parent/atcrowdfunding16-member-zuul/target/classes/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding07-member-parent/atcrowdfunding16-member-zuul/target/classes/com/atguigu/crowd/Atcrowdfunding16MemberZuulApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding07-member-parent/atcrowdfunding16-member-zuul/target/classes/com/atguigu/crowd/filter/CrowdAccessFilter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding07-member-parent/atcrowdfunding16-member-zuul/target/test-classes/com/atguigu/crowd/Atcrowdfunding16MemberZuulApplicationTests.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding07-member-parent/atcrowdfunding17-member-api/target/classes/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding07-member-parent/atcrowdfunding17-member-api/target/classes/com/atguigu/crowd/Atcrowdfunding17MemberApiApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding07-member-parent/atcrowdfunding17-member-api/target/classes/com/atguigu/crowd/api/MySQLRemoteService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding07-member-parent/atcrowdfunding17-member-api/target/classes/com/atguigu/crowd/api/RedisRemoteService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding07-member-parent/atcrowdfunding17-member-api/target/test-classes/com/atguigu/crowd/Atcrowdfunding17MemberApiApplicationTests.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JUC/sh_teach/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../JUC/sh_teach/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JUC/sh_teach/src/main/java/com/atguigu/sh/juc/day01/LambdaExpressDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../JUC/sh_teach/src/main/java/com/atguigu/sh/juc/day01/LambdaExpressDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JUC/sh_teach/src/main/java/com/atguigu/sh/juc/day01/SaleTicket.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../JUC/sh_teach/src/main/java/com/atguigu/sh/juc/day01/SaleTicket.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JUC/sh_teach/src/main/java/com/atguigu/sh/juc/day01/SaleTicket_Lambda.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../JUC/sh_teach/src/main/java/com/atguigu/sh/juc/day01/SaleTicket_Lambda.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JUC/sh_teach/src/main/java/com/atguigu/sh/juc/day01/ThreadWaitNotifyDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../JUC/sh_teach/src/main/java/com/atguigu/sh/juc/day01/ThreadWaitNotifyDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JUC/sh_teach/src/main/java/com/atguigu/sh/juc/day01/ThreadWaitNotifyDemo2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../JUC/sh_teach/src/main/java/com/atguigu/sh/juc/day01/ThreadWaitNotifyDemo2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JUC/sh_teach/src/main/java/com/atguigu/sh/juc/day02/Lock8.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../JUC/sh_teach/src/main/java/com/atguigu/sh/juc/day02/Lock8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JUC/sh_teach/src/main/java/com/atguigu/sh/juc/day02/ThreadOrderAccess.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../JUC/sh_teach/src/main/java/com/atguigu/sh/juc/day02/ThreadOrderAccess.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JUC/sh_teach/src/main/java/com/atguigu/sh/juc/day02/ThreadOrderAccess1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../JUC/sh_teach/src/main/java/com/atguigu/sh/juc/day02/ThreadOrderAccess1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JUC/sh_teach/src/main/java/com/atguigu/sh/juc/day02/ThreadWaitNotifyDemo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../JUC/sh_teach/src/main/java/com/atguigu/sh/juc/day02/ThreadWaitNotifyDemo1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JUC/sh_teach/src/main/java/com/atguigu/sh/juc/day02/ThreadWaitNotifyDemo2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../JUC/sh_teach/src/main/java/com/atguigu/sh/juc/day02/ThreadWaitNotifyDemo2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JUC/sh_teach/src/main/java/com/atguigu/sh/juc/day02/exer/ThreadWaitNotifyDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../JUC/sh_teach/src/main/java/com/atguigu/sh/juc/day02/exer/ThreadWaitNotifyDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JUC/sh_teach/src/main/java/com/atguigu/sh/juc/day02/exer/ThreadWaitNotifyDemo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../JUC/sh_teach/src/main/java/com/atguigu/sh/juc/day02/exer/ThreadWaitNotifyDemo1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JUC/sh_teach/src/main/java/com/atguigu/sh/juc/day03/NotSafeDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../JUC/sh_teach/src/main/java/com/atguigu/sh/juc/day03/NotSafeDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JUC/sh_teach/src/main/java/com/atguigu/sh/juc/day03/SingletonTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../JUC/sh_teach/src/main/java/com/atguigu/sh/juc/day03/SingletonTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JUC/sh_teach/src/main/java/com/atguigu/sh/juc/day03/exer/CallableDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../JUC/sh_teach/src/main/java/com/atguigu/sh/juc/day03/exer/CallableDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JUC/sh_teach/src/main/java/com/atguigu/sh/juc/day03/exer/ThreadDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../JUC/sh_teach/src/main/java/com/atguigu/sh/juc/day03/exer/ThreadDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JUC/sh_teach/src/main/java/com/atguigu/sh/juc/day04/CountDownLatchDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../JUC/sh_teach/src/main/java/com/atguigu/sh/juc/day04/CountDownLatchDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JUC/sh_teach/src/main/java/com/atguigu/sh/juc/day04/CyclicBarrierDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../JUC/sh_teach/src/main/java/com/atguigu/sh/juc/day04/CyclicBarrierDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JUC/sh_teach/src/main/java/com/atguigu/sh/juc/day04/ReadWriteLockDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../JUC/sh_teach/src/main/java/com/atguigu/sh/juc/day04/ReadWriteLockDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JUC/sh_teach/src/main/java/com/atguigu/sh/juc/day04/SemaphoreDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../JUC/sh_teach/src/main/java/com/atguigu/sh/juc/day04/SemaphoreDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JUC/sh_teach/src/main/java/com/atguigu/sh/juc/day05/BlockingQueueDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../JUC/sh_teach/src/main/java/com/atguigu/sh/juc/day05/BlockingQueueDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JUC/sh_teach/src/main/java/com/atguigu/sh/juc/day05/MyThreadPoolDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../JUC/sh_teach/src/main/java/com/atguigu/sh/juc/day05/MyThreadPoolDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JUC/sh_teach/src/main/java/com/atguigu/sh/juc/day05/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../JUC/sh_teach/src/main/java/com/atguigu/sh/juc/day05/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JUC/sh_teach/src/main/java/com/atguigu/sh/juc/day05/TestDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../JUC/sh_teach/src/main/java/com/atguigu/sh/juc/day05/TestDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JUC/sh_teach/src/main/java/com/atguigu/sh/juc/day05/TestTransferValue.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../JUC/sh_teach/src/main/java/com/atguigu/sh/juc/day05/TestTransferValue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JUC/sh_teach/src/main/java/com/atguigu/sh/juc/day06/CompletableFutureDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../JUC/sh_teach/src/main/java/com/atguigu/sh/juc/day06/CompletableFutureDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JUC/sh_teach/src/main/java/com/atguigu/sh/juc/day06/ForkJoinDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../JUC/sh_teach/src/main/java/com/atguigu/sh/juc/day06/ForkJoinDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JUC/sh_teach/src/main/java/com/atguigu/sh/juc/day06/FunctionDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../JUC/sh_teach/src/main/java/com/atguigu/sh/juc/day06/FunctionDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JUC/sh_teach/src/main/java/com/atguigu/sh/juc/day06/StreamDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../JUC/sh_teach/src/main/java/com/atguigu/sh/juc/day06/StreamDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JUC/sh_teach/src/test/java/com/atguigu/sh/juc/day01/JucTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../JUC/sh_teach/src/test/java/com/atguigu/sh/juc/day01/JucTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JUC/sh_teach/src/test/java/com/atguigu/sh/juc/day01/Test01.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../JUC/sh_teach/src/test/java/com/atguigu/sh/juc/day01/Test01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JUC/sh_teach/src/test/java/com/atguigu/sh/juc/day01/Test2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../JUC/sh_teach/src/test/java/com/atguigu/sh/juc/day01/Test2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JUC/sh_teach/src/test/java/com/atguigu/sh/juc/day01/Test3.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../JUC/sh_teach/src/test/java/com/atguigu/sh/juc/day01/Test3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JUC/sh_teach/src/test/java/com/atguigu/sh/juc/day02/ThreadWaitNotifyDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../JUC/sh_teach/src/test/java/com/atguigu/sh/juc/day02/ThreadWaitNotifyDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JUC/sh_teach/src/test/java/com/atguigu/sh/juc/day02/ThreadWaitNotifyDemo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../JUC/sh_teach/src/test/java/com/atguigu/sh/juc/day02/ThreadWaitNotifyDemo1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JUC/sh_teach/src/test/java/com/atguigu/sh/juc/day03/CountDownLatchDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../JUC/sh_teach/src/test/java/com/atguigu/sh/juc/day03/CountDownLatchDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JUC/sh_teach/src/test/java/com/atguigu/sh/juc/day03/CyclicBarrierDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../JUC/sh_teach/src/test/java/com/atguigu/sh/juc/day03/CyclicBarrierDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JUC/sh_teach/src/test/java/com/atguigu/sh/juc/day03/ReadWriteLockDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../JUC/sh_teach/src/test/java/com/atguigu/sh/juc/day03/ReadWriteLockDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JUC/sh_teach/src/test/java/com/atguigu/sh/juc/day03/SemaphoreDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../JUC/sh_teach/src/test/java/com/atguigu/sh/juc/day03/SemaphoreDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JUC/sh_teach/src/test/java/com/atguigu/sh/juc/day04/BlockingQueueDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../JUC/sh_teach/src/test/java/com/atguigu/sh/juc/day04/BlockingQueueDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JUC/sh_teach/src/test/java/com/atguigu/sh/juc/day04/MyThreadPoolDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../JUC/sh_teach/src/test/java/com/atguigu/sh/juc/day04/MyThreadPoolDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JUC/sh_teach/src/test/java/com/atguigu/sh/juc/day04/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../JUC/sh_teach/src/test/java/com/atguigu/sh/juc/day04/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JUC/sh_teach/src/test/java/com/atguigu/sh/juc/day04/TransferValue.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../JUC/sh_teach/src/test/java/com/atguigu/sh/juc/day04/TransferValue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JUC/sh_teach/src/test/java/com/atguigu/sh/juc/day05/ForkJoinDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../JUC/sh_teach/src/test/java/com/atguigu/sh/juc/day05/ForkJoinDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JUC/sh_teach/src/test/java/com/atguigu/sh/juc/day05/FunctionDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../JUC/sh_teach/src/test/java/com/atguigu/sh/juc/day05/FunctionDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JUC/sh_teach/src/test/java/com/atguigu/sh/juc/day05/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../JUC/sh_teach/src/test/java/com/atguigu/sh/juc/day05/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JUC/sh_teach/src/test/java/com/atguigu/sh/juc/day05/StreamDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../JUC/sh_teach/src/test/java/com/atguigu/sh/juc/day05/StreamDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JUC/sh_teach/target/test-classes/com/atguigu/sh/juc/JucTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JUC/sh_teach/target/test-classes/com/atguigu/sh/juc/Phone.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JUC/sh_teach/target/test-classes/com/atguigu/sh/juc/ShareSource.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JUC/sh_teach/target/test-classes/com/atguigu/sh/juc/Test01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ZKclient/ZK_curator/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../ZKclient/ZK_curator/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ZKclient/ZK_curator/src/main/java/com/pzx/zk_curator/ZKClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../ZKclient/ZK_curator/src/main/java/com/pzx/zk_curator/ZKClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/atguigu/double_linkedlist/DoubleLinkedListDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/atguigu/double_linkedlist/DoubleLinkedListDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/atguigu/linkedlist/Josephu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/atguigu/linkedlist/Josephu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/atguigu/linkedlist/SingleLinkedListDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/atguigu/linkedlist/SingleLinkedListDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/atguigu/linkedlist/exer/ExerDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/atguigu/linkedlist/exer/ExerDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/atguigu/linkedlist/exer/HeroNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/atguigu/linkedlist/exer/HeroNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/atguigu/linkedlist/exer/SingleLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/atguigu/linkedlist/exer/SingleLinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/atguigu/linkedlist/exer/TestStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/atguigu/linkedlist/exer/TestStack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/atguigu/recursion/MiGong.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/atguigu/recursion/MiGong.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/atguigu/recursion/Queen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/atguigu/recursion/Queen.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/atguigu/recursion/RecursionTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/atguigu/recursion/RecursionTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/atguigu/stack/ArrayStackDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/atguigu/stack/ArrayStackDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/atguigu/stack/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/atguigu/stack/Calculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/atguigu/stack/LinkedListToStackDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/atguigu/stack/LinkedListToStackDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/atguigu/stack/PolandNotation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/atguigu/stack/PolandNotation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/atguigu/stack/PolandNotation1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/atguigu/stack/PolandNotation1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/atguigu/test/spare_array/double_linkedlist/DoubleLinkedListDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/atguigu/test/spare_array/double_linkedlist/DoubleLinkedListDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/atguigu/test/spare_array/linkedlist/Josephu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/atguigu/test/spare_array/linkedlist/Josephu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/atguigu/test/spare_array/linkedlist/SingleLinkedListDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/atguigu/test/spare_array/linkedlist/SingleLinkedListDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/atguigu/test/spare_array/linkedlist/SingleLinkedListDemo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/atguigu/test/spare_array/linkedlist/SingleLinkedListDemo1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/atguigu/test/spare_array/queue/ArrayQueueDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/atguigu/test/spare_array/queue/ArrayQueueDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/atguigu/test/spare_array/stack/ArrayStackDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/atguigu/test/spare_array/stack/ArrayStackDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/atguigu/test/spare_array/stack/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/atguigu/test/spare_array/stack/Calculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/atguigu/test/spare_array/stack/PolandNotation1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/atguigu/test/spare_array/stack/PolandNotation1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leetcode/src/main/java/LinkedList/day01/LinkedListAdd.java" beforeDir="false" afterPath="$PROJECT_DIR$/../leetcode/src/main/java/LinkedList/day01/LinkedListAdd.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leetcode/src/main/java/LinkedList/day01/ListNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/../leetcode/src/main/java/LinkedList/day01/ListNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leetcode/src/main/java/LinkedList/day01/MyLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/../leetcode/src/main/java/LinkedList/day01/MyLinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leetcode/src/main/java/day01/ErFen01.java" beforeDir="false" afterPath="$PROJECT_DIR$/../leetcode/src/main/java/day01/ErFen01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leetcode/src/main/java/day01/ErFen02.java" beforeDir="false" afterPath="$PROJECT_DIR$/../leetcode/src/main/java/day01/ErFen02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leetcode/target/classes/day01/ErFen02.class" beforeDir="false" afterPath="$PROJECT_DIR$/../leetcode/target/classes/day01/ErFen02.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leetcode/target/classes/day01/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding07-member-parent/atcrowdfunding13-member-project-consumer/target/test-classes/com/atguigu/crowd/Atcrowdfunding13MemberProjectConsumerApplicationTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding07-member-parent/atcrowdfunding13-member-project-consumer/target/test-classes/com/atguigu/crowd/Atcrowdfunding13MemberProjectConsumerApplicationTests.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cloud2021/cloud-consumer-feign-order80/src/main/java/com/atguigu/springcloud/config/FeignConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../cloud2021/cloud-consumer-feign-order80/src/main/java/com/atguigu/springcloud/config/FeignConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cloud2021/cloud-consumer-feign-order80/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../../cloud2021/cloud-consumer-feign-order80/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cloud2021/cloud-consumer-feign-order80/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../../cloud2021/cloud-consumer-feign-order80/target/classes/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cloud2021/cloud-consumer-feign-order80/target/classes/com/atguigu/springcloud/config/FeignConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../cloud2021/cloud-consumer-feign-order80/target/classes/com/atguigu/springcloud/config/FeignConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cloud2021/cloud-consumer-order80/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../../cloud2021/cloud-consumer-order80/target/classes/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cloud2021/cloud-provider-payment8001/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../../cloud2021/cloud-provider-payment8001/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cloud2021/cloud-provider-payment8001/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../../cloud2021/cloud-provider-payment8001/target/classes/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../guli_school/guliguli-parent/common/spring_security/src/main/java/com/atguigu/security/config/TokenWebSecurityConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../guli_school/guliguli-parent/common/spring_security/src/main/java/com/atguigu/security/config/TokenWebSecurityConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../guli_school/guliguli-parent/common/spring_security/src/main/java/com/atguigu/security/entity/SecurityUser.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../guli_school/guliguli-parent/common/spring_security/src/main/java/com/atguigu/security/entity/SecurityUser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../guli_school/guliguli-parent/common/spring_security/src/main/java/com/atguigu/security/filter/TokenAuthenticationFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../guli_school/guliguli-parent/common/spring_security/src/main/java/com/atguigu/security/filter/TokenAuthenticationFilter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../guli_school/guliguli-parent/common/spring_security/src/main/java/com/atguigu/security/filter/TokenLoginFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../guli_school/guliguli-parent/common/spring_security/src/main/java/com/atguigu/security/filter/TokenLoginFilter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../guli_school/guliguli-parent/common/spring_security/src/main/java/com/atguigu/security/security/TokenLogoutHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../guli_school/guliguli-parent/common/spring_security/src/main/java/com/atguigu/security/security/TokenLogoutHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../guli_school/guliguli-parent/common/spring_security/src/main/java/com/atguigu/security/security/TokenManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../guli_school/guliguli-parent/common/spring_security/src/main/java/com/atguigu/security/security/TokenManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../guli_school/guliguli-parent/infrastructure/api-gateway/src/main/java/com/atguigu/gateway/config/CorsConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../guli_school/guliguli-parent/infrastructure/api-gateway/src/main/java/com/atguigu/gateway/config/CorsConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../guli_school/guliguli-parent/infrastructure/api-gateway/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../../guli_school/guliguli-parent/infrastructure/api-gateway/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../guli_school/guliguli-parent/service/service_acl/src/main/java/com/atguigu/aclservice/controller/IndexController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../guli_school/guliguli-parent/service/service_acl/src/main/java/com/atguigu/aclservice/controller/IndexController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../guli_school/guliguli-parent/service/service_acl/src/main/java/com/atguigu/aclservice/controller/LoginController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../guli_school/guliguli-parent/service/service_acl/src/main/java/com/atguigu/aclservice/controller/LoginController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../guli_school/guliguli-parent/service/service_acl/src/main/java/com/atguigu/aclservice/controller/PermissionController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../guli_school/guliguli-parent/service/service_acl/src/main/java/com/atguigu/aclservice/controller/PermissionController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../guli_school/guliguli-parent/service/service_acl/src/main/java/com/atguigu/aclservice/controller/RoleController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../guli_school/guliguli-parent/service/service_acl/src/main/java/com/atguigu/aclservice/controller/RoleController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../guli_school/guliguli-parent/service/service_acl/src/main/java/com/atguigu/aclservice/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../guli_school/guliguli-parent/service/service_acl/src/main/java/com/atguigu/aclservice/controller/UserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../guli_school/guliguli-parent/service/service_acl/src/main/java/com/atguigu/aclservice/service/impl/PermissionServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../guli_school/guliguli-parent/service/service_acl/src/main/java/com/atguigu/aclservice/service/impl/PermissionServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../guli_school/guliguli-parent/service/service_acl/src/main/java/com/atguigu/aclservice/service/impl/RoleServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../guli_school/guliguli-parent/service/service_acl/src/main/java/com/atguigu/aclservice/service/impl/RoleServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../guli_school/guliguli-parent/service/service_cms/src/main/java/com/atguigu/educms/controller/BannerAdminController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../guli_school/guliguli-parent/service/service_cms/src/main/java/com/atguigu/educms/controller/BannerAdminController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../guli_school/guliguli-parent/service/service_cms/src/main/java/com/atguigu/educms/controller/BannerFrontController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../guli_school/guliguli-parent/service/service_cms/src/main/java/com/atguigu/educms/controller/BannerFrontController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../guli_school/guliguli-parent/service/service_edu/src/main/java/com/atguigu/eduservice/controller/EduChapterController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../guli_school/guliguli-parent/service/service_edu/src/main/java/com/atguigu/eduservice/controller/EduChapterController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../guli_school/guliguli-parent/service/service_edu/src/main/java/com/atguigu/eduservice/controller/EduCourseController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../guli_school/guliguli-parent/service/service_edu/src/main/java/com/atguigu/eduservice/controller/EduCourseController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../guli_school/guliguli-parent/service/service_edu/src/main/java/com/atguigu/eduservice/controller/EduLoginController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../guli_school/guliguli-parent/service/service_edu/src/main/java/com/atguigu/eduservice/controller/EduLoginController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../guli_school/guliguli-parent/service/service_edu/src/main/java/com/atguigu/eduservice/controller/EduSubjectController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../guli_school/guliguli-parent/service/service_edu/src/main/java/com/atguigu/eduservice/controller/EduSubjectController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../guli_school/guliguli-parent/service/service_edu/src/main/java/com/atguigu/eduservice/controller/EduTeacherController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../guli_school/guliguli-parent/service/service_edu/src/main/java/com/atguigu/eduservice/controller/EduTeacherController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../guli_school/guliguli-parent/service/service_edu/src/main/java/com/atguigu/eduservice/controller/EduVideoController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../guli_school/guliguli-parent/service/service_edu/src/main/java/com/atguigu/eduservice/controller/EduVideoController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../guli_school/guliguli-parent/service/service_edu/src/main/java/com/atguigu/eduservice/controller/front/CourseFrontController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../guli_school/guliguli-parent/service/service_edu/src/main/java/com/atguigu/eduservice/controller/front/CourseFrontController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../guli_school/guliguli-parent/service/service_edu/src/main/java/com/atguigu/eduservice/controller/front/EduCommentController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../guli_school/guliguli-parent/service/service_edu/src/main/java/com/atguigu/eduservice/controller/front/EduCommentController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../guli_school/guliguli-parent/service/service_edu/src/main/java/com/atguigu/eduservice/controller/front/IndexFrontController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../guli_school/guliguli-parent/service/service_edu/src/main/java/com/atguigu/eduservice/controller/front/IndexFrontController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../guli_school/guliguli-parent/service/service_edu/src/main/java/com/atguigu/eduservice/controller/front/TeacherFrontController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../guli_school/guliguli-parent/service/service_edu/src/main/java/com/atguigu/eduservice/controller/front/TeacherFrontController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../guli_school/guliguli-parent/service/service_edu/src/main/java/com/atguigu/eduservice/service/impl/EduCourseServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../guli_school/guliguli-parent/service/service_edu/src/main/java/com/atguigu/eduservice/service/impl/EduCourseServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../guli_school/guliguli-parent/service/service_msm/src/main/java/com/atguigu/msmservice/controller/MsmController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../guli_school/guliguli-parent/service/service_msm/src/main/java/com/atguigu/msmservice/controller/MsmController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../guli_school/guliguli-parent/service/service_order/src/main/java/com/atguigu/eduorder/controller/OrderController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../guli_school/guliguli-parent/service/service_order/src/main/java/com/atguigu/eduorder/controller/OrderController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../guli_school/guliguli-parent/service/service_order/src/main/java/com/atguigu/eduorder/controller/PayLogController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../guli_school/guliguli-parent/service/service_order/src/main/java/com/atguigu/eduorder/controller/PayLogController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../guli_school/guliguli-parent/service/service_oss/src/main/java/com/atguigu/oss/controller/OSSController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../guli_school/guliguli-parent/service/service_oss/src/main/java/com/atguigu/oss/controller/OSSController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../guli_school/guliguli-parent/service/service_statistics/src/main/java/com/atguigu/staservice/controller/StatisticsDailyController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../guli_school/guliguli-parent/service/service_statistics/src/main/java/com/atguigu/staservice/controller/StatisticsDailyController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../guli_school/guliguli-parent/service/service_ucenter/src/main/java/com/atguigu/ucenter/controller/UcenterMemberController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../guli_school/guliguli-parent/service/service_ucenter/src/main/java/com/atguigu/ucenter/controller/UcenterMemberController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../guli_school/guliguli-parent/service/service_ucenter/src/main/java/com/atguigu/ucenter/controller/WxApiController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../guli_school/guliguli-parent/service/service_ucenter/src/main/java/com/atguigu/ucenter/controller/WxApiController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../guli_school/guliguli-parent/service/service_vod/src/main/java/com/atguigu/vod/controller/VodController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../guli_school/guliguli-parent/service/service_vod/src/main/java/com/atguigu/vod/controller/VodController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mybatis-pluse/mpdemo1010/src/main/java/com/atguigu/mpdemo1010/config/MyConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../mybatis-pluse/mpdemo1010/src/main/java/com/atguigu/mpdemo1010/config/MyConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mybatis-pluse/mpdemo1010/src/main/java/com/atguigu/mpdemo1010/config/MyMetaObjectHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../mybatis-pluse/mpdemo1010/src/main/java/com/atguigu/mpdemo1010/config/MyMetaObjectHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mybatis-pluse/mpdemo1010/src/main/java/com/atguigu/mpdemo1010/entity/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../mybatis-pluse/mpdemo1010/src/main/java/com/atguigu/mpdemo1010/entity/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mybatis-pluse/mpdemo1010/src/main/java/com/atguigu/mpdemo1010/mapper/UserMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../mybatis-pluse/mpdemo1010/src/main/java/com/atguigu/mpdemo1010/mapper/UserMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mybatis-pluse/mpdemo1010/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../../mybatis-pluse/mpdemo1010/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ssm_learning" beforeDir="false" afterPath="$PROJECT_DIR$/../../ssm_learning" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="209" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/com/atguigu/test/spare_array/linkedlist/SingleLinkedListDemo.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="E:\ide\maven\repository" />
+        <option name="mavenHome" value="E:/ide/maven/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="E:/ide/maven/apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="20yvQulEua9SKzJLUjHj1OUbnom" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RebelAgentSelection">
+    <selection>jr</selection>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.atguigu.stack" />
+      <recent name="com.atguigu.sparse_array.linkedlist" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\IdeaWorkSpace\algorithm\DataStructures" />
+      <recent name="E:\IdeaWorkSpace\algorithm\DataStructures\src\com\atguigu\test\spare_array\linkedlist" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.AvlTreeDemo.rightRotateTest">
+    <configuration name="BinarySearchNoRecur" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.binarysearchnorecursion.BinarySearchNoRecur" />
+      <module name="Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.divideandconquer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GraphTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.graph.GraphTest" />
+      <module name="DataStructures" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.graph.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Hanoitower" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.divideandconquer.Hanoitower" />
+      <module name="Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.divideandconquer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AvlTreeDemo.rightRotateTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="DataStructures" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.avl.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.atguigu.avl" />
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.avl.AvlTreeDemo" />
+      <option name="METHOD_NAME" value="rightRotateTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GraphTest.bfsAndDfs" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="DataStructures" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.graph.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.atguigu.graph" />
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.graph.GraphTest" />
+      <option name="METHOD_NAME" value="bfsAndDfs" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.AvlTreeDemo.rightRotateTest" />
+        <item itemvalue="Application.Hanoitower" />
+        <item itemvalue="Application.BinarySearchNoRecur" />
+        <item itemvalue="JUnit.GraphTest.bfsAndDfs" />
+        <item itemvalue="Application.GraphTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SpellCheckerSettings" BundledDictionaries="0" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="499a8227-8618-4396-90ba-721f15318ce8" name="Default Changelist" comment="" />
+      <created>1637029629197</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1637029629197</updated>
+      <workItem from="1637029631383" duration="13861000" />
+      <workItem from="1637234057790" duration="5271000" />
+      <workItem from="1637325517691" duration="2315000" />
+      <workItem from="1639903520776" duration="1245000" />
+      <workItem from="1641887793706" duration="1431000" />
+      <workItem from="1641889527184" duration="19000" />
+      <workItem from="1641889562156" duration="17243000" />
+      <workItem from="1641951488346" duration="12927000" />
+      <workItem from="1641978298141" duration="10930000" />
+      <workItem from="1642041011037" duration="631000" />
+      <workItem from="1642046399648" duration="6958000" />
+      <workItem from="1642120696755" duration="8895000" />
+      <workItem from="1642136046491" duration="19089000" />
+      <workItem from="1642214647325" duration="10711000" />
+      <workItem from="1642232493086" duration="2053000" />
+      <workItem from="1642236821318" duration="15122000" />
+      <workItem from="1642303929643" duration="14469000" />
+      <workItem from="1642386868853" duration="25763000" />
+      <workItem from="1642467786326" duration="12411000" />
+      <workItem from="1642596171234" duration="1358000" />
+      <workItem from="1642650594399" duration="7132000" />
+      <workItem from="1642688069675" duration="3453000" />
+      <workItem from="1642728825102" duration="6114000" />
+      <workItem from="1647615121877" duration="797000" />
+      <workItem from="1647647517324" duration="2438000" />
+      <workItem from="1647696628100" duration="1787000" />
+      <workItem from="1647838421206" duration="15643000" />
+      <workItem from="1649231962585" duration="1322000" />
+      <workItem from="1649304311211" duration="2209000" />
+      <workItem from="1649393039028" duration="3886000" />
+      <workItem from="1649820869521" duration="2906000" />
+      <workItem from="1649897167790" duration="3568000" />
+      <workItem from="1650157868258" duration="19332000" />
+      <workItem from="1650240709835" duration="10073000" />
+      <workItem from="1650286590425" duration="1217000" />
+      <workItem from="1650333623845" duration="5290000" />
+      <workItem from="1650343275045" duration="18483000" />
+      <workItem from="1650415275184" duration="26689000" />
+      <workItem from="1650505443348" duration="1023000" />
+      <workItem from="1650516683417" duration="15209000" />
+      <workItem from="1650590107324" duration="15025000" />
+      <workItem from="1650628237695" duration="5548000" />
+      <workItem from="1650674540368" duration="2450000" />
+      <workItem from="1650711214106" duration="7903000" />
+      <workItem from="1650792852293" duration="7510000" />
+      <workItem from="1650847953579" duration="7925000" />
+      <workItem from="1650861249448" duration="12210000" />
+      <workItem from="1650938310119" duration="5942000" />
+      <workItem from="1650965057137" duration="12002000" />
+      <workItem from="1650984801655" duration="600000" />
+      <workItem from="1651018021145" duration="4978000" />
+      <workItem from="1651026997256" duration="16075000" />
+      <workItem from="1651105782071" duration="1107000" />
+      <workItem from="1651110480966" duration="16212000" />
+      <workItem from="1651137599844" duration="4142000" />
+      <workItem from="1651195236030" duration="8441000" />
+      <workItem from="1651281485781" duration="14907000" />
+      <workItem from="1651383086358" duration="7929000" />
+      <workItem from="1651451882637" duration="2858000" />
+      <workItem from="1651467940697" duration="1712000" />
+      <workItem from="1651490453906" duration="4968000" />
+      <workItem from="1651547890821" duration="701000" />
+      <workItem from="1651569549236" duration="972000" />
+      <workItem from="1651575689697" duration="10234000" />
+      <workItem from="1651633406155" duration="12401000" />
+      <workItem from="1651711444430" duration="10872000" />
+      <workItem from="1651755933238" duration="3960000" />
+      <workItem from="1651843229428" duration="5476000" />
+      <workItem from="1651892305349" duration="17975000" />
+      <workItem from="1651971480245" duration="1218000" />
+      <workItem from="1651998360159" duration="7229000" />
+      <workItem from="1652007768805" duration="5782000" />
+      <workItem from="1652059545364" duration="6527000" />
+      <workItem from="1652071038517" duration="7889000" />
+      <workItem from="1652147927085" duration="2266000" />
+      <workItem from="1652173018166" duration="4672000" />
+      <workItem from="1652179566051" duration="1867000" />
+      <workItem from="1652181548779" duration="598000" />
+      <workItem from="1652182167591" duration="4266000" />
+      <workItem from="1652236687129" duration="6519000" />
+      <workItem from="1652316361445" duration="13539000" />
+      <workItem from="1652416445845" duration="1320000" />
+      <workItem from="1652495176798" duration="1264000" />
+      <workItem from="1653400287184" duration="1388000" />
+      <workItem from="1653527542880" duration="825000" />
+      <workItem from="1654006811153" duration="1244000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="70" key="#Auto_Import" timestamp="1651135595203">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="361" y="70" key="#Auto_Import/0.0.1536.816@0.0.1536.816" timestamp="1651135595203" />
+    <state x="361" y="69" key="#Custom_Plugin_Repositories" timestamp="1651495247078">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="361" y="69" key="#Custom_Plugin_Repositories/0.0.1536.816@0.0.1536.816" timestamp="1651495247078" />
+    <state x="361" y="70" key="#Live_Templates" timestamp="1650417952469">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="361" y="70" key="#Live_Templates/0.0.1536.816@0.0.1536.816" timestamp="1650417952469" />
+    <state x="574" y="130" key="#com.intellij.ide.util.MemberChooser" timestamp="1652317777990">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="574" y="130" key="#com.intellij.ide.util.MemberChooser/0.0.1536.816@0.0.1536.816" timestamp="1652317777990" />
+    <state x="404" y="327" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1653527564956">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="404" y="327" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1536.816@0.0.1536.816" timestamp="1653527564956" />
+    <state x="553" y="298" width="429" height="226" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1650419252307">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="553" y="298" width="429" height="226" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1536.816@0.0.1536.816" timestamp="1650419252307" />
+    <state x="322" y="82" width="530" height="586" key="#xdebugger.evaluate" timestamp="1652324264046">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="322" y="82" width="530" height="586" key="#xdebugger.evaluate/0.0.1536.816@0.0.1536.816" timestamp="1652324264046" />
+    <state width="440" height="466" key="DebuggerActiveHint" timestamp="1650637740015">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="440" height="466" key="DebuggerActiveHint/0.0.1536.816@0.0.1536.816" timestamp="1650637740015" />
+    <state x="549" y="166" key="FileChooserDialogImpl" timestamp="1650853358742">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="549" y="166" key="FileChooserDialogImpl/0.0.1536.816@0.0.1536.816" timestamp="1650853358742" />
+    <state x="361" y="70" key="GrepConsoleSettings" timestamp="1650246217023">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="361" y="70" key="GrepConsoleSettings/0.0.1536.816@0.0.1536.816" timestamp="1650246217023" />
+    <state width="1492" height="237" key="GridCell.Tab.-1.bottom" timestamp="1651122920016">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1492" height="237" key="GridCell.Tab.-1.bottom/0.0.1536.816@0.0.1536.816" timestamp="1651122920016" />
+    <state width="1492" height="237" key="GridCell.Tab.-1.center" timestamp="1651122920016">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1492" height="237" key="GridCell.Tab.-1.center/0.0.1536.816@0.0.1536.816" timestamp="1651122920016" />
+    <state width="1492" height="237" key="GridCell.Tab.-1.left" timestamp="1651122920016">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1492" height="237" key="GridCell.Tab.-1.left/0.0.1536.816@0.0.1536.816" timestamp="1651122920016" />
+    <state width="1492" height="237" key="GridCell.Tab.-1.right" timestamp="1651122920016">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1492" height="237" key="GridCell.Tab.-1.right/0.0.1536.816@0.0.1536.816" timestamp="1651122920016" />
+    <state width="1493" height="383" key="GridCell.Tab.0.bottom" timestamp="1654008062364">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1493" height="383" key="GridCell.Tab.0.bottom/0.0.1536.816@0.0.1536.816" timestamp="1654008062364" />
+    <state width="1493" height="383" key="GridCell.Tab.0.center" timestamp="1654008062364">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1493" height="383" key="GridCell.Tab.0.center/0.0.1536.816@0.0.1536.816" timestamp="1654008062364" />
+    <state width="1493" height="383" key="GridCell.Tab.0.left" timestamp="1654008062364">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1493" height="383" key="GridCell.Tab.0.left/0.0.1536.816@0.0.1536.816" timestamp="1654008062364" />
+    <state width="1493" height="383" key="GridCell.Tab.0.right" timestamp="1654008062364">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1493" height="383" key="GridCell.Tab.0.right/0.0.1536.816@0.0.1536.816" timestamp="1654008062364" />
+    <state width="1492" height="237" key="GridCell.Tab.1.bottom" timestamp="1651122702804">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1492" height="237" key="GridCell.Tab.1.bottom/0.0.1536.816@0.0.1536.816" timestamp="1651122702804" />
+    <state width="1492" height="237" key="GridCell.Tab.1.center" timestamp="1651122702804">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1492" height="237" key="GridCell.Tab.1.center/0.0.1536.816@0.0.1536.816" timestamp="1651122702804" />
+    <state width="1492" height="237" key="GridCell.Tab.1.left" timestamp="1651122702804">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1492" height="237" key="GridCell.Tab.1.left/0.0.1536.816@0.0.1536.816" timestamp="1651122702804" />
+    <state width="1492" height="237" key="GridCell.Tab.1.right" timestamp="1651122702804">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1492" height="237" key="GridCell.Tab.1.right/0.0.1536.816@0.0.1536.816" timestamp="1651122702804" />
+    <state x="272" y="0" key="SettingsEditor" timestamp="1652182149123">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="272" y="0" key="SettingsEditor/0.0.1536.816@0.0.1536.816" timestamp="1652182149123" />
+    <state x="490" y="150" width="546" height="524" key="StructurePopup" timestamp="1652320976406">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="490" y="150" width="546" height="524" key="StructurePopup/0.0.1536.816@0.0.1536.816" timestamp="1652320976406" />
+    <state x="485" y="309" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1650853326088">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="485" y="309" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1536.816@0.0.1536.816" timestamp="1650853326088" />
+    <state x="93" y="93" width="1350" height="630" key="dock-window-1" timestamp="1651575724700">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="93" y="93" width="1350" height="630" key="dock-window-1/0.0.1536.816@0.0.1536.816" timestamp="1651575724700" />
+    <state x="499" y="168" key="extract.method.dialog" timestamp="1650160083782">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="499" y="168" key="extract.method.dialog/0.0.1536.816@0.0.1536.816" timestamp="1650160083782" />
+    <state x="178" y="112" key="new project wizard" timestamp="1652337674880">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="178" y="112" key="new project wizard/0.0.1536.816@0.0.1536.816" timestamp="1652337674880" />
+    <state x="472" y="41" key="refactoring.ChangeSignatureDialog" timestamp="1651756330906">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="472" y="41" key="refactoring.ChangeSignatureDialog/0.0.1536.816@0.0.1536.816" timestamp="1651756330906" />
+    <state x="425" y="185" key="run.anything.popup" timestamp="1652319554291">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="425" y="185" key="run.anything.popup/0.0.1536.816@0.0.1536.816" timestamp="1652319554291" />
+    <state x="431" y="144" width="672" height="672" key="search.everywhere.popup" timestamp="1653527580380">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="431" y="144" width="672" height="672" key="search.everywhere.popup/0.0.1536.816@0.0.1536.816" timestamp="1653527580380" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/atguigu/SparseArray/SparseArray.java</url>
+          <line>92</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/atguigu/double_linkedlist/DoubleLinkedListDemo.java</url>
+          <line>48</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/atguigu/test/spare_array/double_linkedlist/DoubleLinkedListDemo.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/atguigu/stack/LinkedListToStackDemo.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/atguigu/test/spare_array/stack/Calculator.java</url>
+          <line>77</line>
+          <option name="timeStamp" value="45" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/atguigu/recursion/MiGong.java</url>
+          <line>77</line>
+          <option name="timeStamp" value="66" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/atguigu/sort/QuickSort.java</url>
+          <line>53</line>
+          <option name="timeStamp" value="71" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/atguigu/sort/QuickSortReview.java</url>
+          <line>97</line>
+          <option name="timeStamp" value="75" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/atguigu/sort/RadixSort.java</url>
+          <line>145</line>
+          <option name="timeStamp" value="81" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/atguigu/hashtable/HashTableDemoReview.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="91" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/atguigu/tree/BinaryTreeSortDemo.java</url>
+          <line>82</line>
+          <option name="timeStamp" value="96" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/atguigu/tree/threadedbinarytree/HeapSort.java</url>
+          <line>97</line>
+          <option name="timeStamp" value="112" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/atguigu/huffmancode/HuffmanCodeReview.java</url>
+          <line>143</line>
+          <option name="timeStamp" value="114" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/atguigu/binarysorttree/BinarySortTreeDemo.java</url>
+          <line>188</line>
+          <option name="timeStamp" value="117" />
+        </line-breakpoint>
+        <line-breakpoint type="java-method">
+          <url>file://$PROJECT_DIR$/src/com/atguigu/test/spare_array/queue/ArrayQueueDemo.java</url>
+          <line>100</line>
+          <properties class="com.atguigu.test.spare_array.queue.ArrayQueue" method="showQueue">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint type="java-method">
+          <url>file://$PROJECT_DIR$/src/com/atguigu/test/spare_array/linkedlist/SingleLinkedListDemo1.java</url>
+          <line>158</line>
+          <properties class="com.atguigu.test.spare_array.linkedlist.SingleLined1" method="addNode">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint type="java-method">
+          <url>file://$PROJECT_DIR$/src/com/atguigu/linkedlist/SingleLinkedListDemo.java</url>
+          <line>105</line>
+          <properties class="com.atguigu.linkedlist.SingleLinkedList" method="queryByNo">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint type="java-method">
+          <url>file://$PROJECT_DIR$/src/com/atguigu/double_linkedlist/DoubleLinkedListDemo.java</url>
+          <line>74</line>
+          <properties class="com.atguigu.double_linkedlist.DoubleLinkedList" method="removeNode">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/com/atguigu/double_linkedlist/DoubleLinkedListDemo.java</url>
+          <line>124</line>
+          <properties class="com.atguigu.double_linkedlist.DoubleLinkedList" method="modifyNode">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/com/atguigu/double_linkedlist/DoubleLinkedListDemo.java</url>
+          <line>195</line>
+          <properties class="com.atguigu.double_linkedlist.DoubleLinkedList" method="addByOrder">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/com/atguigu/linkedlist/Josephu.java</url>
+          <line>36</line>
+          <properties class="com.atguigu.linkedlist.CircleSingleLinkedList" method="countBoy">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/com/atguigu/stack/LinkedListToStackDemo.java</url>
+          <line>71</line>
+          <properties class="com.atguigu.stack.LinkedListToStack" method="pop">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/com/atguigu/test/spare_array/linkedlist/SingleLinkedListDemo1.java</url>
+          <line>122</line>
+          <properties class="com.atguigu.test.spare_array.linkedlist.SingleLined1" method="reverse">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/com/atguigu/stack/Calculator.java</url>
+          <line>25</line>
+          <properties class="com.atguigu.stack.Calculator" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/com/atguigu/test/spare_array/stack/Calculator.java</url>
+          <line>143</line>
+          <properties class="com.atguigu.test.spare_array.stack.ArrayStack2" method="cal">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="43" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/com/atguigu/stack/PolandNotation1.java</url>
+          <line>49</line>
+          <properties class="com.atguigu.stack.PolandNotation1" method="parseSuffixExpressionList">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="50" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/com/atguigu/recursion/RecursionTest.java</url>
+          <line>41</line>
+          <properties class="com.atguigu.recursion.RecursionTest" method="test">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="53" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/com/atguigu/stack/PolandNotation1.java</url>
+          <line>99</line>
+          <properties class="com.atguigu.stack.PolandNotation1" method="toInfixExpressionList">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="58" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/com/atguigu/test/spare_array/stack/PolandNotation1.java</url>
+          <line>49</line>
+          <properties class="com.atguigu.test.spare_array.stack.PolandNotation1" method="parseSuffixExpressionList">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="64" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/com/atguigu/recursion/MiGong.java</url>
+          <line>118</line>
+          <properties class="com.atguigu.recursion.MiGong" method="setWay2">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="67" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/com/atguigu/recursion/Queen.java</url>
+          <line>31</line>
+          <properties class="com.atguigu.recursion.Queen" method="check">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="68" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/com/atguigu/sort/QuickSort.java</url>
+          <line>64</line>
+          <properties class="com.atguigu.sort.QuickSort" method="quickSort">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="69" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/com/atguigu/sort/QuickSortReview.java</url>
+          <line>53</line>
+          <properties class="com.atguigu.sort.QuickSortReview" method="quickSort">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="74" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/com/atguigu/sort/QuickSort.java</url>
+          <line>31</line>
+          <properties class="com.atguigu.sort.QuickSort" method="test01">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="78" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/com/atguigu/search/BinarySearch.java</url>
+          <line>127</line>
+          <properties class="com.atguigu.search.BinarySearch" method="binarySearch">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="83" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/com/atguigu/search/BinarySearchReview.java</url>
+          <line>72</line>
+          <properties class="com.atguigu.search.BinarySearchReview" method="binarySearchPlus">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="85" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/com/atguigu/search/BinarySearch.java</url>
+          <line>29</line>
+          <properties class="com.atguigu.search.BinarySearch" method="testBinarySearchPlus">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="86" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/com/atguigu/search/FibonacciSearch.java</url>
+          <line>37</line>
+          <properties class="com.atguigu.search.FibonacciSearch" method="fibSearch">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="88" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/com/atguigu/hashtable/HashTableDemo.java</url>
+          <line>144</line>
+          <properties class="com.atguigu.hashtable.HashTable" method="add">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="90" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/com/atguigu/tree/BinaryTreeSortDemo.java</url>
+          <line>397</line>
+          <properties class="com.atguigu.tree.HeroNode" method="postOrderSearch">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="93" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/com/atguigu/tree/BinaryTreeSortDemo.java</url>
+          <line>363</line>
+          <properties class="com.atguigu.tree.HeroNode" method="infixOrderSearch">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="95" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/com/atguigu/tree/HeroNode1.java</url>
+          <line>181</line>
+          <properties class="com.atguigu.tree.HeroNode1" method="infixOrderSearch">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="97" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/com/atguigu/tree/HeroNode1.java</url>
+          <line>64</line>
+          <properties class="com.atguigu.tree.HeroNode1" method="delNode">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="99" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/com/atguigu/tree/BinaryTreeSortDemo.java</url>
+          <line>108</line>
+          <properties class="com.atguigu.tree.BinaryTree" method="delNode2">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="100" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/com/atguigu/tree/BinaryTreeSortDemo.java</url>
+          <line>245</line>
+          <properties class="com.atguigu.tree.HeroNode" method="removeNode1">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="101" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/com/atguigu/tree/ArrBinaryTreeDemo.java</url>
+          <line>78</line>
+          <properties class="com.atguigu.tree.ArrBinaryTree" method="preOrder">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="102" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/com/atguigu/tree/threadedbinarytree/ThreadedBinaryTree.java</url>
+          <line>74</line>
+          <properties class="com.atguigu.tree.threadedbinarytree.ThreadTree" method="preThreadedList">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="106" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/com/atguigu/tree/stackorderTree/OrderTree.java</url>
+          <line>52</line>
+          <properties class="com.atguigu.tree.stackorderTree.OrderTree" method="preOrder">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="107" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/com/atguigu/sort/MergeSort.java</url>
+          <line>62</line>
+          <properties class="com.atguigu.sort.MergeSort" method="mergeSort">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="108" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/com/atguigu/tree/threadedbinarytree/HeapSort.java</url>
+          <line>70</line>
+          <properties class="com.atguigu.tree.threadedbinarytree.HeapSort" method="headSort">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="110" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/com/atguigu/binarysorttree/BinarySortTreeDemo.java</url>
+          <line>316</line>
+          <properties class="com.atguigu.binarysorttree.Node" method="searchParentNode">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="116" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/com/atguigu/graph/Graph.java</url>
+          <line>73</line>
+          <properties class="com.atguigu.graph.Graph" method="bfs">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="121" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/Algorithm/src/main/java/com/atguigu/binarysearchnorecursion/BinarySearchNoRecur.java</url>
+          <line>27</line>
+          <properties class="com.atguigu.binarysearchnorecursion.BinarySearchNoRecur" method="binarySearch">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="124" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="binaryTree" />
+        <watch expression="root" />
+        <watch expression="root" language="JAVA" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/DataStructures$PolandNotation1__1_.ic" NAME="PolandNotation1 (1) Coverage Results" MODIFIED="1642691327786" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.atguigu.test.spare_array.stack.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/DataStructures$HeapSort.ic" NAME="HeapSort Coverage Results" MODIFIED="1651322753439" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.atguigu.tree.threadedbinarytree.*</FILTER>
+    </SUITE>
+  </component>
+</project>

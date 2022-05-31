@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="be84c44f-7ee9-4644-a189-bc27dc6aaf16" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../JUC/sh_teach/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JUC/sh_teach/src/main/java/com/atguigu/sh/juc/day01/LambdaExpressDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JUC/sh_teach/src/main/java/com/atguigu/sh/juc/day01/SaleTicket.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JUC/sh_teach/src/main/java/com/atguigu/sh/juc/day01/SaleTicket_Lambda.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JUC/sh_teach/src/main/java/com/atguigu/sh/juc/day01/ThreadWaitNotifyDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JUC/sh_teach/src/main/java/com/atguigu/sh/juc/day01/ThreadWaitNotifyDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JUC/sh_teach/src/main/java/com/atguigu/sh/juc/day02/Lock8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JUC/sh_teach/src/main/java/com/atguigu/sh/juc/day02/ThreadOrderAccess.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JUC/sh_teach/src/main/java/com/atguigu/sh/juc/day02/ThreadOrderAccess1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JUC/sh_teach/src/main/java/com/atguigu/sh/juc/day02/ThreadWaitNotifyDemo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JUC/sh_teach/src/main/java/com/atguigu/sh/juc/day02/ThreadWaitNotifyDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JUC/sh_teach/src/main/java/com/atguigu/sh/juc/day02/exer/ThreadWaitNotifyDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JUC/sh_teach/src/main/java/com/atguigu/sh/juc/day02/exer/ThreadWaitNotifyDemo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JUC/sh_teach/src/main/java/com/atguigu/sh/juc/day03/NotSafeDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JUC/sh_teach/src/main/java/com/atguigu/sh/juc/day03/SingletonTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JUC/sh_teach/src/main/java/com/atguigu/sh/juc/day03/exer/CallableDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JUC/sh_teach/src/main/java/com/atguigu/sh/juc/day03/exer/ThreadDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JUC/sh_teach/src/main/java/com/atguigu/sh/juc/day03/exer/ThreadDemo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JUC/sh_teach/src/main/java/com/atguigu/sh/juc/day04/CountDownLatchDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JUC/sh_teach/src/main/java/com/atguigu/sh/juc/day04/CyclicBarrierDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JUC/sh_teach/src/main/java/com/atguigu/sh/juc/day04/ReadWriteLockDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JUC/sh_teach/src/main/java/com/atguigu/sh/juc/day04/SemaphoreDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JUC/sh_teach/src/main/java/com/atguigu/sh/juc/day05/BlockingQueueDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JUC/sh_teach/src/main/java/com/atguigu/sh/juc/day05/MyThreadPoolDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JUC/sh_teach/src/main/java/com/atguigu/sh/juc/day05/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JUC/sh_teach/src/main/java/com/atguigu/sh/juc/day05/TestDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JUC/sh_teach/src/main/java/com/atguigu/sh/juc/day05/TestTransferValue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JUC/sh_teach/src/main/java/com/atguigu/sh/juc/day06/CompletableFutureDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JUC/sh_teach/src/main/java/com/atguigu/sh/juc/day06/ForkJoinDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JUC/sh_teach/src/main/java/com/atguigu/sh/juc/day06/FunctionDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JUC/sh_teach/src/main/java/com/atguigu/sh/juc/day06/StreamDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JUC/sh_teach/src/test/java/com/atguigu/sh/juc/day01/JucTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JUC/sh_teach/src/test/java/com/atguigu/sh/juc/day01/Test01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JUC/sh_teach/src/test/java/com/atguigu/sh/juc/day01/Test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JUC/sh_teach/src/test/java/com/atguigu/sh/juc/day01/Test3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JUC/sh_teach/src/test/java/com/atguigu/sh/juc/day02/ThreadWaitNotifyDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JUC/sh_teach/src/test/java/com/atguigu/sh/juc/day02/ThreadWaitNotifyDemo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JUC/sh_teach/src/test/java/com/atguigu/sh/juc/day03/CountDownLatchDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JUC/sh_teach/src/test/java/com/atguigu/sh/juc/day03/CyclicBarrierDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JUC/sh_teach/src/test/java/com/atguigu/sh/juc/day03/ReadWriteLockDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JUC/sh_teach/src/test/java/com/atguigu/sh/juc/day03/SemaphoreDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JUC/sh_teach/src/test/java/com/atguigu/sh/juc/day04/BlockingQueueDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JUC/sh_teach/src/test/java/com/atguigu/sh/juc/day04/MyThreadPoolDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JUC/sh_teach/src/test/java/com/atguigu/sh/juc/day04/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JUC/sh_teach/src/test/java/com/atguigu/sh/juc/day04/TransferValue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JUC/sh_teach/src/test/java/com/atguigu/sh/juc/day05/ForkJoinDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JUC/sh_teach/src/test/java/com/atguigu/sh/juc/day05/FunctionDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JUC/sh_teach/src/test/java/com/atguigu/sh/juc/day05/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JUC/sh_teach/src/test/java/com/atguigu/sh/juc/day05/StreamDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ZKclient/ZK_curator/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ZKclient/ZK_curator/src/main/java/com/pzx/zk_curator/ZKClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataStructures/src/com/atguigu/double_linkedlist/DoubleLinkedListDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataStructures/src/com/atguigu/linkedlist/Josephu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataStructures/src/com/atguigu/linkedlist/SingleLinkedListDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataStructures/src/com/atguigu/linkedlist/exer/ExerDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataStructures/src/com/atguigu/linkedlist/exer/HeroNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataStructures/src/com/atguigu/linkedlist/exer/SingleLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataStructures/src/com/atguigu/linkedlist/exer/TestStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataStructures/src/com/atguigu/stack/ArrayStackDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataStructures/src/com/atguigu/stack/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataStructures/src/com/atguigu/stack/LinkedListToStackDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataStructures/src/com/atguigu/stack/PolandNotation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataStructures/src/com/atguigu/stack/PolandNotation1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataStructures/src/com/atguigu/test/spare_array/double_linkedlist/DoubleLinkedListDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataStructures/src/com/atguigu/test/spare_array/linkedlist/Josephu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataStructures/src/com/atguigu/test/spare_array/linkedlist/SingleLinkedListDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataStructures/src/com/atguigu/test/spare_array/linkedlist/SingleLinkedListDemo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataStructures/src/com/atguigu/test/spare_array/queue/ArrayQueueDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataStructures/src/com/atguigu/test/spare_array/stack/ArrayStackDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/LinkedList/day01/LinkedListAdd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/LinkedList/day01/ListNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/LinkedList/day01/MyLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/day01/ErFen01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/day01/ErFen02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/day01/ErFen01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/day01/ErFen02.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atcrowdfunding_project/atcrowdfunding07-member-parent/atcrowdfunding10-member-mysql-provider/src/test/java/com/atguigu/crowd/TestDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cloud2021/cloud-consumer-feign-order80/src/main/java/com/atguigu/springcloud/config/FeignConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../cloud2021/cloud-consumer-feign-order80/src/main/java/com/atguigu/springcloud/config/FeignConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cloud2021/cloud-consumer-feign-order80/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../../cloud2021/cloud-consumer-feign-order80/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cloud2021/cloud-consumer-feign-order80/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../../cloud2021/cloud-consumer-feign-order80/target/classes/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cloud2021/cloud-consumer-feign-order80/target/classes/com/atguigu/springcloud/config/FeignConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../cloud2021/cloud-consumer-feign-order80/target/classes/com/atguigu/springcloud/config/FeignConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cloud2021/cloud-consumer-order80/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../../cloud2021/cloud-consumer-order80/target/classes/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cloud2021/cloud-provider-payment8001/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../../cloud2021/cloud-provider-payment8001/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cloud2021/cloud-provider-payment8001/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../../cloud2021/cloud-provider-payment8001/target/classes/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ssm_learning" beforeDir="false" afterPath="$PROJECT_DIR$/../../ssm_learning" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="E:\ide\maven\repository" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../../ide/maven/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="E:\ide\maven\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="22Uu6JNxP1e7rNz4DZaf0DfZoVz" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RunManager" selected="Application.MyLinkedList">
+    <configuration name="MyLinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LinkedList.day01.MyLinkedList" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LinkedList.day01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ErFen02.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="day01" />
+      <option name="MAIN_CLASS_NAME" value="day01.ErFen02" />
+      <option name="METHOD_NAME" value="test01" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="day01" />
+      <option name="MAIN_CLASS_NAME" value="day01.Solution" />
+      <option name="METHOD_NAME" value="test01" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MyLinkedList" />
+        <item itemvalue="JUnit.ErFen02.test01" />
+        <item itemvalue="JUnit.Solution.test01" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="be84c44f-7ee9-4644-a189-bc27dc6aaf16" name="Changes" comment="" />
+      <created>1639904314098</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1639904314098</updated>
+      <workItem from="1639904315401" duration="5697000" />
+      <workItem from="1639982950037" duration="1113000" />
+      <workItem from="1641986978321" duration="1136000" />
+      <workItem from="1642035351763" duration="6547000" />
+      <workItem from="1642343887641" duration="290000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/day01/ErFen01.java</url>
+          <line>51</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/day01/ErFen02.java</url>
+          <line>55</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/LinkedList/day01/ListNode.java</url>
+          <line>38</line>
+          <properties class="LinkedList.day01.ListNode" method="removeElements">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
